@@ -1,0 +1,4954 @@
+{
+  "1-IX EU (Amsterdam, Netherlands)": [
+    52.356359,
+    4.950787
+  ],
+  "1-IX EU (Bratislava, Slovakia)": [
+    48.11754762515991,
+    17.094711946798213
+  ],
+  "1-IX EU (Frankfurt, Germany)": [
+    50.1282537731062,
+    8.601467683791077
+  ],
+  "1-IX EU (London, United Kingdom)": [
+    51.4980695,
+    -0.0143605
+  ],
+  "1-IX EU (Prague, Czech Republic)": [
+    50.0601656,
+    14.4829317
+  ],
+  "1-IX EU (Warsaw, Poland)": [
+    52.2276614,
+    21.00425
+  ],
+  "1IX (Amsterdam, Netherlands)": [
+    52.2946484,
+    4.945349
+  ],
+  "1IX (Kharkiv, Ukraine)": [
+    49.98461,
+    36.188725
+  ],
+  "1IX (Kyiv, Ukraine)": [
+    50.429447,
+    30.546693
+  ],
+  "1IX (Odessa, Ukraine)": [
+    46.48929,
+    30.677495
+  ],
+  "1IX (Warsaw, Poland)": [
+    52.2276614,
+    21.00425
+  ],
+  "48 IX (Phoenix, AZ, United States)": [
+    33.395111,
+    -111.97007
+  ],
+  "4IXP (Rottweil, Germany)": [
+    48.167973,
+    8.596318
+  ],
+  "A.IX (Beirut, Lebanon)": [
+    33.87478,
+    35.53169
+  ],
+  "ABQIX (Albuquerque, NM, United States)": [
+    35.0925234,
+    -106.6555485
+  ],
+  "ACIX (Kinshasa, Congo, Dem. Rep.)": [
+    -4.3134776,
+    15.2730855
+  ],
+  "ACT-IX (Canberra, ACT, Australia)": [
+    -35.2516189,
+    149.133846
+  ],
+  "AF-CIX (Lagos, Nigeria)": [
+    6.5985919,
+    3.368917
+  ],
+  "AIXP (Arusha, Tanzania)": [
+    -3.3710017780754735,
+    36.695407841314385
+  ],
+  "AKL-IX (Auckland, New Zealand)": [
+    -36.750412,
+    174.69607
+  ],
+  "AMPATH (Miami, FL, United States)": [
+    25.78262624,
+    -80.193069234
+  ],
+  "AMR-IX (Amaravati, India)": [
+    16.4713222,
+    80.6133671
+  ],
+  "AMR-IX (Vijayawada, India)": [
+    16.43491,
+    80.568769
+  ],
+  "AMS-IX (Amsterdam, Netherlands)": [
+    52.2803455,
+    4.7537924
+  ],
+  "AMS-IX (Rotterdam, Netherlands)": [
+    51.92324,
+    4.43342
+  ],
+  "AMS-IX (The Hague, Netherlands)": [
+    52.0015549,
+    4.2069896
+  ],
+  "AMS-IX Bangkok (Bangkok, Thailand)": [
+    13.727896,
+    100.524123
+  ],
+  "AMS-IX Bay Area (San Francisco, CA, United States)": [
+    37.3343915,
+    -121.8913956
+  ],
+  "AMS-IX Caribbean (Willemstad, Cura\u0102\u00a7ao)": [
+    12.096547712862016,
+    -68.90788614749908
+  ],
+  "AMS-IX Chicago (Chicago, IL, United States)": [
+    41.876632803,
+    -87.63174155
+  ],
+  "AMS-IX Djibouti (Djibouti City, Djibouti)": [
+    11.573021330145448,
+    43.16091036565643
+  ],
+  "AMS-IX Hong Kong (Hong Kong, China)": [
+    22.26645,
+    114.246513
+  ],
+  "AMS-IX Hyderabad (Hyderabad, India)": [
+    17.4646,
+    78.36663
+  ],
+  "AMS-IX Kolkata (Kolkata, India)": [
+    22.577522,
+    88.431341
+  ],
+  "AMS-IX Lagos (Lagos, Nigeria)": [
+    6.450453,
+    3.592092
+  ],
+  "AMS-IX Mumbai (Mumbai, India)": [
+    19.141318,
+    73.008839
+  ],
+  "AMS-IX Singapore (Singapore, Singapore)": [
+    1.29513,
+    103.790313
+  ],
+  "ANI-IX Delhi (New Delhi, India)": [
+    28.513678,
+    77.376944
+  ],
+  "ANIX (Tirana, Albania)": [
+    41.330762,
+    19.8109
+  ],
+  "AO-IXP (Luanda, Angola)": [
+    -8.948483014879395,
+    13.181209841689626
+  ],
+  "APE (Auckland, New Zealand)": [
+    -36.750412,
+    174.69607
+  ],
+  "ARMIX (Yerevan, Armenia)": [
+    40.182684,
+    44.555494
+  ],
+  "AXCIX Dusseldorf (D\u0102\u013dsseldorf, Germany)": [
+    51.1878821,
+    6.8498535
+  ],
+  "AZIX (Phoenix, AZ, United States)": [
+    33.454411,
+    -111.976435
+  ],
+  "Accra-IX (Accra, Ghana)": [
+    5.571443,
+    -0.209662
+  ],
+  "Aloha-IX (Honolulu, HI, United States)": [
+    21.3345794,
+    -158.0885753
+  ],
+  "Angonix (Luanda, Angola)": [
+    -8.914830605534148,
+    13.181261491035695
+  ],
+  "Any2Chicago (Chicago, IL, United States)": [
+    41.876632803,
+    -87.63174155
+  ],
+  "Any2Denver (Denver, CO, United States)": [
+    39.74572161117953,
+    -104.99559760093689
+  ],
+  "Any2East (Atlanta, GA, United States)": [
+    33.755807,
+    -84.391066
+  ],
+  "Any2East (Boston, MA, United States)": [
+    42.378001,
+    -71.080879
+  ],
+  "Any2East (New York, NY, United States)": [
+    40.72,
+    -74.004561
+  ],
+  "Any2East (Washington, DC, United States)": [
+    38.90252,
+    -77.029143
+  ],
+  "Any2Florida (Miami, FL, United States)": [
+    25.78262624,
+    -80.193069234
+  ],
+  "Any2Florida (Orlando, FL, United States)": [
+    28.42712,
+    -81.419773
+  ],
+  "Any2West (Los Angeles, CA, United States)": [
+    34.058723,
+    -118.235299
+  ],
+  "Any2West (San Francisco, CA, United States)": [
+    37.3343915,
+    -121.8913956
+  ],
+  "AqabaIX (Aqaba, Jordan)": [
+    29.532283618104508,
+    35.01039906862738
+  ],
+  "Asteroid Amsterdam IXP (Amsterdam, Netherlands)": [
+    52.356359,
+    4.950787
+  ],
+  "Asteroid Mombasa IXP (Mombasa, Kenya)": [
+    -4.007715355950762,
+    39.59064617939518
+  ],
+  "Asteroid Nairobi IXP (Nairobi, Kenya)": [
+    -1.325673,
+    36.865728
+  ],
+  "AuvernIX (Clermont Ferrand, France)": [
+    45.799353,
+    3.142428
+  ],
+  "B-IX (Belgrade, Serbia)": [
+    44.807575,
+    20.462511
+  ],
+  "B-IX (Bucharest, Romania)": [
+    44.481675,
+    26.120647
+  ],
+  "B-IX (Kapitan Andreevo, Bulgaria)": [
+    41.72073,
+    26.317757
+  ],
+  "B-IX (Skopje, North Macedonia)": [
+    41.99814019231579,
+    21.439305040137565
+  ],
+  "B-IX (Sofia, Bulgaria)": [
+    42.625932,
+    23.376693
+  ],
+  "BALT-IX (Frankfurt, Germany)": [
+    50.1282537731062,
+    8.601467683791077
+  ],
+  "BALT-IX (Riga, Latvia)": [
+    56.923961,
+    24.137042
+  ],
+  "BALT-IX (Tallinn, Estonia)": [
+    59.437158079608245,
+    24.708860011829078
+  ],
+  "BALT-IX (Vilnius, Lithuania)": [
+    54.63746,
+    25.306727
+  ],
+  "BARIX (Bridgetown, Barbados)": [
+    13.09209,
+    -59.611938
+  ],
+  "BBIX Amsterdam (Amsterdam, Netherlands)": [
+    52.356671,
+    4.952501
+  ],
+  "BBIX Chicago (Chicago, IL, United States)": [
+    41.8541674,
+    -87.618531
+  ],
+  "BBIX Dallas (Dallas, TX, United States)": [
+    32.80098325000927,
+    -96.81972026824951
+  ],
+  "BBIX Fukuoka (Fukuoka, Japan)": [
+    33.5902,
+    130.4017
+  ],
+  "BBIX Hong Kong (Hong Kong, China)": [
+    22.266098,
+    114.246512
+  ],
+  "BBIX LA (Los Angeles, CA, United States)": [
+    34.047991,
+    -118.25557
+  ],
+  "BBIX LA (San Francisco, CA, United States)": [
+    37.2415096,
+    -121.7817521
+  ],
+  "BBIX London (London, United Kingdom)": [
+    51.511549,
+    -0.0029163
+  ],
+  "BBIX Manila (Manila, Philippines)": [
+    14.312284172055437,
+    121.0515120797612
+  ],
+  "BBIX Marseille (Marseille, France)": [
+    43.33916,
+    5.346433
+  ],
+  "BBIX Miami (Miami, FL, United States)": [
+    25.78262624,
+    -80.193069234
+  ],
+  "BBIX Osaka (Osaka, Japan)": [
+    34.6757188,
+    135.493392
+  ],
+  "BBIX Rotterdam (Rotterdam, Netherlands)": [
+    51.92324,
+    4.43342
+  ],
+  "BBIX Singapore (Singapore, Singapore)": [
+    1.3168299,
+    103.7000791
+  ],
+  "BBIX Thailand (Bangkok, Thailand)": [
+    13.726356,
+    100.516125
+  ],
+  "BBIX Thailand (Chonburi, Thailand)": [
+    13.44078,
+    101.028339
+  ],
+  "BBIX Tokyo (Naha, Japan)": [
+    26.2703891,
+    127.7180781
+  ],
+  "BBIX Tokyo (Sendai, Japan)": [
+    38.314362,
+    140.758194
+  ],
+  "BBIX Tokyo (Tokyo, Japan)": [
+    35.6433713,
+    139.7396531
+  ],
+  "BCIX (Berlin, Germany)": [
+    52.5275259,
+    13.3186756
+  ],
+  "BDIXP (Bujumbura, Burundi)": [
+    -3.37249,
+    29.35607
+  ],
+  "BFD-IX (Leeds, United Kingdom)": [
+    53.79510547170267,
+    -1.7623786973288342
+  ],
+  "BFIX (Bobo Dioulasso, Burkina Faso)": [
+    11.17715,
+    -4.2979
+  ],
+  "BFIX (Ouagadougou, Burkina Faso)": [
+    12.304813,
+    -1.499937
+  ],
+  "BHNIX (Sarajevo, Bosnia-Herzegovina)": [
+    43.8560985,
+    18.3965277
+  ],
+  "BINX (Gaborone, Botswana)": [
+    -24.6849859,
+    25.9028495
+  ],
+  "BIX (Bergen, Norway)": [
+    60.391263,
+    5.322054
+  ],
+  "BIX (Budapest, Hungary)": [
+    47.5180908,
+    19.0562728
+  ],
+  "BIX (Jakarta, Indonesia)": [
+    -6.23868,
+    106.824063
+  ],
+  "BIX (Vienna, Austria)": [
+    48.2697621,
+    16.4102279
+  ],
+  "BIX.BG (Sofia, Bulgaria)": [
+    42.625932,
+    23.376693
+  ],
+  "BIXP (Belize City, Belize)": [
+    17.5119,
+    -88.201222
+  ],
+  "BKNIX (Bangkok, Thailand)": [
+    13.724858816483701,
+    100.53912765497402
+  ],
+  "BKNIX (Chiang Mai, Thailand)": [
+    18.8035871,
+    98.9530155
+  ],
+  "BKNIX (Chonburi, Thailand)": [
+    13.44078,
+    101.028339
+  ],
+  "BKS-IX (Istanbul, Turkey)": [
+    41.037733114938035,
+    28.932260382182072
+  ],
+  "BNIX (Brussels, Belgium)": [
+    50.8710692,
+    4.4741265
+  ],
+  "BOSIX (Boston, MA, United States)": [
+    42.629897,
+    -71.305788
+  ],
+  "BR-IX (Brno, Czech Republic)": [
+    49.20172,
+    16.603317
+  ],
+  "BREM-IX (Bremen, Germany)": [
+    53.110092,
+    8.766939
+  ],
+  "BW-IX (Karlsruhe, Germany)": [
+    49.012257,
+    8.40815
+  ],
+  "BY-IX (Minsk, Belarus)": [
+    53.901120759146075,
+    27.585414740549293
+  ],
+  "Balcan-IX (Amsterdam, Netherlands)": [
+    52.2946484,
+    4.945349
+  ],
+  "Balcan-IX (Bucharest, Romania)": [
+    44.481675,
+    26.120647
+  ],
+  "Balcan-IX (Budapest, Hungary)": [
+    47.493275,
+    19.102322
+  ],
+  "Balcan-IX (Frankfurt, Germany)": [
+    50.1282537731062,
+    8.601467683791077
+  ],
+  "Balcan-IX (London, United Kingdom)": [
+    51.511549,
+    -0.0029163
+  ],
+  "Balcan-IX (Sofia, Bulgaria)": [
+    42.7026051,
+    23.3059837
+  ],
+  "Barcelona-IX (Barcelona, Spain)": [
+    41.34855,
+    2.12979
+  ],
+  "BatamIX (Batam, Indonesia)": [
+    1.1186903161221111,
+    104.04847226685763
+  ],
+  "BatamIX Jakarta (Batam, Indonesia)": [
+    1.1186903161221111,
+    104.04847226685763
+  ],
+  "BatamIX Jakarta (Jakarta, Indonesia)": [
+    -6.23868,
+    106.824063
+  ],
+  "Beirut-IX (Beirut, Lebanon)": [
+    33.869239666470044,
+    35.54257392883301
+  ],
+  "BelgiumIX (Antwerp, Belgium)": [
+    51.2632316,
+    4.4129611
+  ],
+  "BelgiumIX (Brussels, Belgium)": [
+    50.8710692,
+    4.4741265
+  ],
+  "BelgiumIX (Ghent, Belgium)": [
+    50.987977,
+    3.767559
+  ],
+  "BelgiumIX (Leuven, Belgium)": [
+    50.8450838,
+    4.7221966
+  ],
+  "Benin-IX (Cotonou, Benin)": [
+    6.354474,
+    2.436143
+  ],
+  "BertuahIX (Jakarta, Indonesia)": [
+    -6.239248,
+    106.825258
+  ],
+  "BertuahIX (Pekanbaru, Indonesia)": [
+    0.5325357787988668,
+    101.44598623298062
+  ],
+  "Big APE (New York, NY, United States)": [
+    40.717664,
+    -74.008333
+  ],
+  "Borneo-IX (Bandar Seri Begawan, Brunei)": [
+    4.967923593662683,
+    114.883975
+  ],
+  "BreizhlX (Rennes, France)": [
+    48.113475,
+    -1.675708
+  ],
+  "C2IX (Jakarta, Indonesia)": [
+    -6.227182,
+    106.833337
+  ],
+  "CABASE IXP-BUE (Buenos Aires, Argentina)": [
+    -34.6068469,
+    -58.3792938
+  ],
+  "CABASE-BHB (Bah\u0102\u00ada Blanca, Argentina)": [
+    -38.6937127,
+    -62.2774204
+  ],
+  "CABASE-BHB (Buenos Aires, Argentina)": [
+    -34.6068469,
+    -58.3792938
+  ],
+  "CABASE-BRC (Bariloche, Argentina)": [
+    -41.1249997,
+    -71.2438093
+  ],
+  "CABASE-BRC (Buenos Aires, Argentina)": [
+    -34.6068469,
+    -58.3792938
+  ],
+  "CABASE-CDU (Concepci\u0102\u0142n del Uruguay, Argentina)": [
+    -32.48218254468495,
+    -58.230904388815354
+  ],
+  "CABASE-CNQ (Corrientes, Argentina)": [
+    -27.472272029986595,
+    -58.818665198374106
+  ],
+  "CABASE-COR (C\u0102\u0142rdoba, Argentina)": [
+    -31.43400704286568,
+    -64.18637691402792
+  ],
+  "CABASE-DLC (Buenos Aires, Argentina)": [
+    -34.6068469,
+    -58.3792938
+  ],
+  "CABASE-DLC (Mar del Tuy\u0102\u015f, Argentina)": [
+    -36.583666,
+    -56.699565
+  ],
+  "CABASE-GBA (Buenos Aires, Argentina)": [
+    -34.476888,
+    -58.9519236
+  ],
+  "CABASE-JUJ (Buenos Aires, Argentina)": [
+    -34.6068469,
+    -58.3792938
+  ],
+  "CABASE-JUJ (San Salvador de Jujuy, Argentina)": [
+    -24.179016,
+    -65.328691
+  ],
+  "CABASE-JUN (Jun\u0102\u00adn, Argentina)": [
+    -34.58524501286916,
+    -60.950082048761274
+  ],
+  "CABASE-LPL (La Plata, Argentina)": [
+    -34.907981,
+    -57.9444896
+  ],
+  "CABASE-MDQ (Buenos Aires, Argentina)": [
+    -34.6068469,
+    -58.3792938
+  ],
+  "CABASE-MZA (Mendoza, Argentina)": [
+    -32.883909,
+    -68.845525
+  ],
+  "CABASE-NQN (Buenos Aires, Argentina)": [
+    -34.6068469,
+    -58.3792938
+  ],
+  "CABASE-NQN (Neuqu\u0102\u00a9n, Argentina)": [
+    -38.95246315451257,
+    -68.09960702082799
+  ],
+  "CABASE-PER (Pergamino, Argentina)": [
+    -33.8969709,
+    -60.5675191
+  ],
+  "CABASE-PMY (Buenos Aires, Argentina)": [
+    -34.6068469,
+    -58.3792938
+  ],
+  "CABASE-PMY (Puerto Madryn, Argentina)": [
+    -42.764506,
+    -65.039183
+  ],
+  "CABASE-POS (Buenos Aires, Argentina)": [
+    -34.6068469,
+    -58.3792938
+  ],
+  "CABASE-POS (Posadas, Argentina)": [
+    -27.4083983,
+    -55.9069922
+  ],
+  "CABASE-RCU (R\u0102\u00ado Cuarto, Argentina)": [
+    -33.11004038215856,
+    -64.30177267080275
+  ],
+  "CABASE-RGL (Rio Gallegos, Argentina)": [
+    -51.62212713022155,
+    -69.25187543527696
+  ],
+  "CABASE-ROS (Buenos Aires, Argentina)": [
+    -34.6068469,
+    -58.3792938
+  ],
+  "CABASE-ROS (Rosario, Argentina)": [
+    -32.9453824,
+    -60.6454049
+  ],
+  "CABASE-RST (Resistencia, Argentina)": [
+    -27.46503977441719,
+    -58.982808955843986
+  ],
+  "CABASE-SFE (Santa Fe, Argentina)": [
+    -31.634585,
+    -60.703593
+  ],
+  "CABASE-SLT (Buenos Aires, Argentina)": [
+    -34.6068469,
+    -58.3792938
+  ],
+  "CABASE-SLT (Salta, Argentina)": [
+    -24.799409,
+    -65.4184168
+  ],
+  "CABASE-SLU (San Luis, Argentina)": [
+    -33.2921441,
+    -66.3418097
+  ],
+  "CABASE-SZP (La Plata, Argentina)": [
+    -34.8810844,
+    -58.0575051
+  ],
+  "CABASE-TDL (Buenos Aires, Argentina)": [
+    -34.6068469,
+    -58.3792938
+  ],
+  "CABASE-TDL (Tandil, Argentina)": [
+    -37.328751,
+    -59.13873
+  ],
+  "CABASE-UAQ (Buenos Aires, Argentina)": [
+    -34.6068469,
+    -58.3792938
+  ],
+  "CABASE-UAQ (San Juan, Argentina)": [
+    -31.5653351,
+    -68.5457328
+  ],
+  "CABASE-VDM (Buenos Aires, Argentina)": [
+    -34.6068469,
+    -58.3792938
+  ],
+  "CABASE-VDM (Viedma, Argentina)": [
+    -40.8090481,
+    -62.9965028
+  ],
+  "CAIX (Cairo, Egypt)": [
+    30.0555509,
+    31.2491307
+  ],
+  "CAMIX (Douala, Cameroon)": [
+    4.060563735153309,
+    9.725189639635193
+  ],
+  "CAMIX (Yaounde, Cameroon)": [
+    3.8718,
+    11.51223
+  ],
+  "CAS-IX (Casablanca, Morocco)": [
+    33.57311,
+    -7.589843
+  ],
+  "CATNIX (Barcelona, Spain)": [
+    41.4273199899598,
+    2.23067650805692
+  ],
+  "CENTRO-IX (Jakarta, Indonesia)": [
+    -6.23868,
+    106.824063
+  ],
+  "CENTRO-IX (Pekanbaru, Indonesia)": [
+    0.5325357787988668,
+    101.44598623298062
+  ],
+  "CFLIX (Orlando, FL, United States)": [
+    28.42712,
+    -81.419773
+  ],
+  "CGIX-BZV (Brazzaville, Congo, Rep.)": [
+    -4.275569,
+    15.273096
+  ],
+  "CHC-IX (Christchurch, New Zealand)": [
+    -43.5466461,
+    172.631254
+  ],
+  "CHIX (Lucerne, Switzerland)": [
+    47.0602571,
+    8.3069078
+  ],
+  "CHIX (Solothurn, Switzerland)": [
+    47.20235576265425,
+    7.528245665746931
+  ],
+  "CHIX (Winterthur, Switzerland)": [
+    47.5007457,
+    8.731932
+  ],
+  "CHIX (Zug, Switzerland)": [
+    47.172410374429205,
+    8.518068840305334
+  ],
+  "CHIX (Z\u0102\u013drich, Switzerland)": [
+    47.431926,
+    8.559344
+  ],
+  "CHN-IX Beijing (Beijing, China)": [
+    40.096353,
+    116.569186
+  ],
+  "CIIX (Los Angeles, CA, United States)": [
+    34.047991,
+    -118.25557
+  ],
+  "CINX (Cape Town, South Africa)": [
+    -33.9187995,
+    18.4204666
+  ],
+  "CIVIX (Abidjan, C\u0102\u00b4te d'Ivoire)": [
+    5.8654145,
+    -4.7640889
+  ],
+  "CIX (Cork, Ireland)": [
+    51.903826,
+    -8.511962
+  ],
+  "CIX (Katowice, Poland)": [
+    50.2534811,
+    19.0002857
+  ],
+  "CIX (Krak\u0102\u0142w, Poland)": [
+    50.027042,
+    19.934585
+  ],
+  "CIX (Warsaw, Poland)": [
+    52.2276614,
+    21.00425
+  ],
+  "CIX (Zagreb, Croatia)": [
+    45.7924573,
+    15.9694066
+  ],
+  "CIX-ATL (Atlanta, GA, United States)": [
+    33.75561037354432,
+    -84.39165115356445
+  ],
+  "CIXP (Geneva, Switzerland)": [
+    46.2079585,
+    6.0982134
+  ],
+  "CL-IX (Cleveland, OH, United States)": [
+    41.505785,
+    -81.684759
+  ],
+  "CNI-IX (Bali, Indonesia)": [
+    -8.636464,
+    115.183362
+  ],
+  "CNI-IX (Bandung, Indonesia)": [
+    -6.9030803,
+    107.4783426
+  ],
+  "CNI-IX (Batam, Indonesia)": [
+    1.1285454,
+    104.05144
+  ],
+  "CNI-IX (Jakarta, Indonesia)": [
+    -6.238491668065008,
+    106.82472216611927
+  ],
+  "CNX (Phnom Penh, Cambodia)": [
+    11.544972,
+    104.937135
+  ],
+  "CODIX (St. Petersburg, Russia)": [
+    59.96515,
+    30.339839
+  ],
+  "COIX (Bend, OR, United States)": [
+    44.04738635609109,
+    -121.32869603476465
+  ],
+  "CON-IX Brisbane (Brisbane, QLD, Australia)": [
+    -27.455262,
+    153.034172
+  ],
+  "CON-IX Melbourne (Melbourne, VIC, Australia)": [
+    -37.814107,
+    144.96328
+  ],
+  "CON-IX Sydney (Sydney, NSW, Australia)": [
+    -33.92139,
+    151.188205
+  ],
+  "CRIX (San Jos\u0102\u00a9, Costa Rica)": [
+    9.9449085,
+    -84.1959093
+  ],
+  "CSIX (Toronto, ON, Canada)": [
+    43.6446637,
+    -79.3841625
+  ],
+  "CSIX (Vancouver, BC, Canada)": [
+    49.254587130865275,
+    -122.84605264071989
+  ],
+  "CXC-IX (Bali, Indonesia)": [
+    -8.636464,
+    115.183362
+  ],
+  "CXC-IX (Denpasar, Indonesia)": [
+    -8.681103190150536,
+    115.18835821748249
+  ],
+  "CXC-IX (Jakarta, Indonesia)": [
+    -6.2393191,
+    106.822724
+  ],
+  "CitraIX Surakarta (Yogyakarta, Indonesia)": [
+    -7.541058,
+    110.71923
+  ],
+  "Community-IX (Berlin, Germany)": [
+    52.5384787,
+    13.237136
+  ],
+  "Community-IX (Frankfurt, Germany)": [
+    50.12681436455641,
+    8.581669382915413
+  ],
+  "Community-IX.ch (Z\u0102\u013drich, Switzerland)": [
+    47.449523,
+    8.540425
+  ],
+  "CyIX (Nicosia, Cyprus)": [
+    35.1649542,
+    33.3243248
+  ],
+  "DACS-IX East (Washington, DC, United States)": [
+    39.058289,
+    -76.9667366
+  ],
+  "DACS-IX North (New York, NY, United States)": [
+    40.74307,
+    -74.00753
+  ],
+  "DACS-IX South (Orlando, FL, United States)": [
+    28.53452,
+    -81.380747
+  ],
+  "DACS-IX West (San Francisco, CA, United States)": [
+    37.4718829,
+    -121.9192359
+  ],
+  "DANIX (Roseau, Dominica)": [
+    15.299781,
+    -61.384364
+  ],
+  "DE-CIX Barcelona (Barcelona, Spain)": [
+    41.4273199899598,
+    2.23067650805692
+  ],
+  "DE-CIX Chennai (Chennai, India)": [
+    13.0999295,
+    80.1656432
+  ],
+  "DE-CIX Chicago (Chicago, IL, United States)": [
+    41.876632803,
+    -87.63174155
+  ],
+  "DE-CIX Dallas (Dallas, TX, United States)": [
+    32.895882,
+    -96.981935
+  ],
+  "DE-CIX Delhi (New Delhi, India)": [
+    28.6308592,
+    77.2073861
+  ],
+  "DE-CIX D\u0102\u013dsseldorf (Cologne, Germany)": [
+    51.0579439,
+    7.01797
+  ],
+  "DE-CIX D\u0102\u013dsseldorf (D\u0102\u013dsseldorf, Germany)": [
+    51.1878821,
+    6.8498535
+  ],
+  "DE-CIX Frankfurt (Aschaffenburg, Germany)": [
+    50.05073,
+    9.0293113
+  ],
+  "DE-CIX Frankfurt (Frankfurt, Germany)": [
+    50.1197497,
+    8.7362834
+  ],
+  "DE-CIX Frankfurt (Hanover, Germany)": [
+    52.3684768,
+    9.86105
+  ],
+  "DE-CIX Frankfurt (Karlsruhe, Germany)": [
+    49.02726,
+    8.4709313
+  ],
+  "DE-CIX Frankfurt (Mannheim, Germany)": [
+    49.4206495,
+    8.3480979
+  ],
+  "DE-CIX Hamburg (Hamburg, Germany)": [
+    53.5504172,
+    10.0485539
+  ],
+  "DE-CIX Houston (Houston, TX, United States)": [
+    29.84277,
+    -95.557385
+  ],
+  "DE-CIX Hyderabad (Hyderabad, India)": [
+    17.4410181,
+    78.3778312
+  ],
+  "DE-CIX Istanbul (Istanbul, Turkey)": [
+    41.0438637,
+    28.6605999
+  ],
+  "DE-CIX Jakarta (Jakarta, Indonesia)": [
+    -6.23868,
+    106.824063
+  ],
+  "DE-CIX Johor Bahru (Johor Bahru, Malaysia)": [
+    1.4628488,
+    103.7695217
+  ],
+  "DE-CIX Kolkata (Kolkata, India)": [
+    22.5882689,
+    88.3909508
+  ],
+  "DE-CIX Kuala Lumpur (Kuala Lumpur, Malaysia)": [
+    3.149439,
+    101.705977
+  ],
+  "DE-CIX Leipzig (Leipzig, Germany)": [
+    51.3601677,
+    12.2848239
+  ],
+  "DE-CIX Lisbon (Lisbon, Portugal)": [
+    38.78792,
+    -9.123492
+  ],
+  "DE-CIX Lisbon (Sines, Portugal)": [
+    37.93539666187237,
+    -8.81511915051924
+  ],
+  "DE-CIX Madrid (Madrid, Spain)": [
+    40.5363005,
+    -3.649121
+  ],
+  "DE-CIX Marseille (Marseille, France)": [
+    43.359822,
+    5.337878
+  ],
+  "DE-CIX Mexico (Mexico City, Mexico)": [
+    19.3635449,
+    -99.2807287
+  ],
+  "DE-CIX Mexico (Santiago de Quer\u0102\u00a9taro, Mexico)": [
+    20.5659518,
+    -100.2567673
+  ],
+  "DE-CIX Mumbai (Mumbai, India)": [
+    18.9119635,
+    73.1965862
+  ],
+  "DE-CIX Munich (Munich, Germany)": [
+    48.14381,
+    11.55602
+  ],
+  "DE-CIX Munich (Ostermiething, Austria)": [
+    48.0323333,
+    12.8353727
+  ],
+  "DE-CIX New York (New York, NY, United States)": [
+    40.74307,
+    -74.00753
+  ],
+  "DE-CIX Nordics (Copenhagen, Denmark)": [
+    55.670181,
+    12.53854
+  ],
+  "DE-CIX Nordics (Esbjerg, Denmark)": [
+    55.5100809,
+    8.4930321
+  ],
+  "DE-CIX Nordics (Helsinki, Finland)": [
+    60.1844923,
+    24.8153681
+  ],
+  "DE-CIX Nordics (Kristiansand, Norway)": [
+    58.2573864,
+    7.8906242
+  ],
+  "DE-CIX Nordics (Oslo, Norway)": [
+    59.9384333,
+    10.8349712
+  ],
+  "DE-CIX Palermo (Palermo, Italy)": [
+    38.15836,
+    13.31716
+  ],
+  "DE-CIX Phoenix (Phoenix, AZ, United States)": [
+    33.454411,
+    -111.976435
+  ],
+  "DE-CIX Richmond (Richmond, VA, United States)": [
+    37.698641,
+    -77.436436
+  ],
+  "DE-CIX Rio de Janeiro (Rio de Janeiro, Brazil)": [
+    -22.968279068658596,
+    -43.38054285421498
+  ],
+  "DE-CIX Singapore (Singapore, Singapore)": [
+    1.335367,
+    103.890225
+  ],
+  "DE-CIX S\u0102\u0141o Paulo (S\u0102\u0141o Paulo, Brazil)": [
+    -23.4898779,
+    -46.7777752
+  ],
+  "DET-IX (Detroit, MI, United States)": [
+    42.470305,
+    -83.237814
+  ],
+  "DET-IX (Grand Rapids, MI, United States)": [
+    42.825789,
+    -85.673157
+  ],
+  "DINX (Durban, South Africa)": [
+    -29.7793236,
+    30.9924543
+  ],
+  "DIX (Aarhus, Denmark)": [
+    56.070062,
+    9.992591
+  ],
+  "DIX (Copenhagen, Denmark)": [
+    55.7284884,
+    12.3761805
+  ],
+  "DIX (Lyngby, Denmark)": [
+    55.7843506,
+    12.5169516
+  ],
+  "DIXP (Dodoma, Tanzania)": [
+    -6.1847,
+    35.7482
+  ],
+  "DN-IX (Donetsk, Ukraine)": [
+    48.00095,
+    37.805776
+  ],
+  "DO-IX (Essen, Germany)": [
+    51.5135872,
+    7.4652981
+  ],
+  "DRFortress (Honolulu, HI, United States)": [
+    21.3345206,
+    -157.9172975
+  ],
+  "DRIX Ashburn (Washington, DC, United States)": [
+    39.0081498,
+    -77.4698067
+  ],
+  "DRIX Atlanta (Atlanta, GA, United States)": [
+    33.75561037354432,
+    -84.39165115356445
+  ],
+  "DRIX Chicago (Chicago, IL, United States)": [
+    41.874291,
+    -87.62992
+  ],
+  "DRIX Dallas (Dallas, TX, United States)": [
+    32.786964,
+    -96.7942267
+  ],
+  "DRIX New York (New York, NY, United States)": [
+    40.717664,
+    -74.008333
+  ],
+  "DRIX Phoenix (Phoenix, AZ, United States)": [
+    33.45179,
+    -112.07219
+  ],
+  "DTEL-IX (Kyiv, Ukraine)": [
+    50.429447,
+    30.546693
+  ],
+  "Dataline-IX (Moscow, Russia)": [
+    55.7427928,
+    37.6154009
+  ],
+  "DesMoinesIX (Des Moines, IA, United States)": [
+    41.58568506269247,
+    -93.62495549778403
+  ],
+  "Digital Edge EPIX Jakarta (Jakarta, Indonesia)": [
+    -6.2393191,
+    106.822724
+  ],
+  "Digital Edge EPIX Philippines (Manila, Philippines)": [
+    14.270768546410935,
+    121.063336615144
+  ],
+  "Douala-IX (Douala, Cameroon)": [
+    4.05679079767976,
+    9.696246157654306
+  ],
+  "ECIX-BER (Berlin, Germany)": [
+    52.5384787,
+    13.237136
+  ],
+  "ECIX-DUS (D\u0102\u013dsseldorf, Germany)": [
+    51.1878821,
+    6.8498535
+  ],
+  "ECIX-FRA (Frankfurt, Germany)": [
+    50.1271736,
+    8.5833767
+  ],
+  "ECIX-HAM (Hamburg, Germany)": [
+    53.5504172,
+    10.0485539
+  ],
+  "ECIX-MUN (Munich, Germany)": [
+    48.14381,
+    11.55602
+  ],
+  "EG-IX (Cairo, Egypt)": [
+    30.0798302,
+    30.9958002
+  ],
+  "EPIX (Katowice, Poland)": [
+    50.2615887,
+    19.0248545
+  ],
+  "EPIX (Poznan, Poland)": [
+    52.3777166,
+    16.9760421
+  ],
+  "EPIX (Warsaw, Poland)": [
+    52.2276614,
+    21.00425
+  ],
+  "EQIX Bogota (Bogot\u0102\u02c7, Colombia)": [
+    4.6747696,
+    -74.1550367
+  ],
+  "EQIX-AM (Amsterdam, Netherlands)": [
+    52.3544486,
+    4.954004
+  ],
+  "EQIX-AT (Atlanta, GA, United States)": [
+    33.75561037354432,
+    -84.39165115356445
+  ],
+  "EQIX-BA (Barcelona, Spain)": [
+    41.3517595,
+    2.1369324
+  ],
+  "EQIX-CH (Chicago, IL, United States)": [
+    41.8541674,
+    -87.618531
+  ],
+  "EQIX-DA (Dallas, TX, United States)": [
+    33.064858,
+    -96.810993
+  ],
+  "EQIX-DB (Dublin, Ireland)": [
+    53.31828741329681,
+    -6.439790725708008
+  ],
+  "EQIX-DC (Washington, DC, United States)": [
+    39.0222233,
+    -77.4527301
+  ],
+  "EQIX-DE (Denver, CO, United States)": [
+    39.587587753,
+    -104.876124767
+  ],
+  "EQIX-FR (Frankfurt, Germany)": [
+    50.1282537731062,
+    8.601467683791077
+  ],
+  "EQIX-GV (Geneva, Switzerland)": [
+    46.2079585,
+    6.0982134
+  ],
+  "EQIX-HE (Helsinki, Finland)": [
+    60.204035,
+    24.7727536
+  ],
+  "EQIX-HK (Hong Kong, China)": [
+    22.396428,
+    114.109497
+  ],
+  "EQIX-HOU (Houston, TX, United States)": [
+    29.8646773,
+    -95.4250849
+  ],
+  "EQIX-JD (Jeddah, Saudi Arabia)": [
+    21.489565,
+    39.225036
+  ],
+  "EQIX-LA (Los Angeles, CA, United States)": [
+    34.04889,
+    -118.259518
+  ],
+  "EQIX-LD (London, United Kingdom)": [
+    51.4988423,
+    -0.0143269
+  ],
+  "EQIX-LIS (Lisbon, Portugal)": [
+    38.78792,
+    -9.123492
+  ],
+  "EQIX-MA (Manchester, United Kingdom)": [
+    53.461701,
+    -2.23811
+  ],
+  "EQIX-MB (Mumbai, India)": [
+    19.113897,
+    72.89278
+  ],
+  "EQIX-MC (Muscat, Oman)": [
+    23.7268063,
+    57.7922093
+  ],
+  "EQIX-MD (Madrid, Spain)": [
+    40.5363005,
+    -3.649121
+  ],
+  "EQIX-MEL (Melbourne, VIC, Australia)": [
+    -37.8230112,
+    144.9131948
+  ],
+  "EQIX-MI (Miami, FL, United States)": [
+    25.78262624,
+    -80.193069234
+  ],
+  "EQIX-ML (Milan, Italy)": [
+    45.4484752,
+    9.1464598
+  ],
+  "EQIX-MT (Montr\u0102\u00a9al, QC, Canada)": [
+    45.4894335,
+    -73.7468608
+  ],
+  "EQIX-MX (Santiago de Quer\u0102\u00a9taro, Mexico)": [
+    20.5569249,
+    -100.2800216
+  ],
+  "EQIX-NY (New York, NY, United States)": [
+    40.7787378,
+    -74.0715408
+  ],
+  "EQIX-OS (Osaka, Japan)": [
+    34.6757188,
+    135.493392
+  ],
+  "EQIX-PA (Paris, France)": [
+    48.9041096,
+    2.2571685
+  ],
+  "EQIX-PE (Perth, WA, Australia)": [
+    -31.954929,
+    115.79733
+  ],
+  "EQIX-PO (San Francisco, CA, United States)": [
+    37.4456911,
+    -122.1610689
+  ],
+  "EQIX-RJ (Rio de Janeiro, Brazil)": [
+    -22.9549809,
+    -43.194589
+  ],
+  "EQIX-SE (Seattle, WA, United States)": [
+    47.614422,
+    -122.339744
+  ],
+  "EQIX-SEO (Seoul, South Korea)": [
+    37.585226,
+    126.878991
+  ],
+  "EQIX-SG (Singapore, Singapore)": [
+    1.3390683,
+    103.8910953
+  ],
+  "EQIX-SK (Stockholm, Sweden)": [
+    59.3626978,
+    17.9555879
+  ],
+  "EQIX-SP (Santana de Parnaiba, Brazil)": [
+    -23.4661188,
+    -46.8653823
+  ],
+  "EQIX-SP (S\u0102\u0141o Paulo, Brazil)": [
+    -23.546145,
+    -46.635633
+  ],
+  "EQIX-SV (San Francisco, CA, United States)": [
+    37.2415096,
+    -121.7817521
+  ],
+  "EQIX-SY (Sydney, NSW, Australia)": [
+    -33.92139,
+    151.188205
+  ],
+  "EQIX-TR (Toronto, ON, Canada)": [
+    43.6509276,
+    -79.3617763
+  ],
+  "EQIX-TY (Tokyo, Japan)": [
+    35.5092405,
+    139.7698121
+  ],
+  "EQIX-WA (Warsaw, Poland)": [
+    52.154805,
+    21.002255
+  ],
+  "EQIX-ZH (Z\u0102\u013drich, Switzerland)": [
+    47.388002,
+    8.520291
+  ],
+  "ERA-IX (Amsterdam, Netherlands)": [
+    52.356359,
+    4.950787
+  ],
+  "ESpanix (Madrid, Spain)": [
+    40.5363005,
+    -3.649121
+  ],
+  "Edge IX Birmingham (Coventry, United Kingdom)": [
+    52.47821967565728,
+    -1.8783972011326564
+  ],
+  "EdgeIX Adelaide (Adelaide, SA, Australia)": [
+    -34.9684576,
+    138.5732163
+  ],
+  "EdgeIX Auckland (Auckland, New Zealand)": [
+    -36.849346,
+    174.765412
+  ],
+  "EdgeIX Brisbane (Brisbane, QLD, Australia)": [
+    -27.453902,
+    153.033201
+  ],
+  "EdgeIX Darwin (Darwin, NT, Australia)": [
+    -12.4554169,
+    130.8392041
+  ],
+  "EdgeIX Hobart (Hobart, TAS, Australia)": [
+    -42.8841721,
+    147.3189883
+  ],
+  "EdgeIX Melbourne (Melbourne, VIC, Australia)": [
+    -37.82202,
+    144.9324765
+  ],
+  "EdgeIX Perth (Perth, WA, Australia)": [
+    -31.864402,
+    115.895935
+  ],
+  "EdgeIX Sydney (Sydney, NSW, Australia)": [
+    -33.92139,
+    151.188205
+  ],
+  "EdgeNXT (Jakarta, Indonesia)": [
+    -6.292878330956482,
+    106.80796145695935
+  ],
+  "Eurasia Peering (Moscow, Russia)": [
+    55.6032464,
+    37.6364207
+  ],
+  "Extreme IX Bangalore (Bangalore, India)": [
+    13.03023,
+    77.5765473
+  ],
+  "Extreme IX Chennai (Chennai, India)": [
+    13.0999295,
+    80.1656432
+  ],
+  "Extreme IX Delhi (New Delhi, India)": [
+    28.6308592,
+    77.2073861
+  ],
+  "Extreme IX Hyderabad (Hyderabad, India)": [
+    17.4646,
+    78.36663
+  ],
+  "Extreme IX Kolkata (Kolkata, India)": [
+    22.5882689,
+    88.3909508
+  ],
+  "Extreme IX Mumbai (Mumbai, India)": [
+    18.9119635,
+    73.1965862
+  ],
+  "FCIX (San Francisco, CA, United States)": [
+    37.4914397,
+    -121.9303366
+  ],
+  "FD-IX (Austin, TX, United States)": [
+    30.2154964,
+    -97.6963383
+  ],
+  "FD-IX (Chicago, IL, United States)": [
+    41.872725,
+    -87.633519
+  ],
+  "FD-IX (Cincinnati, OH, United States)": [
+    39.3174136,
+    -84.4606702
+  ],
+  "FD-IX (Cleveland, OH, United States)": [
+    41.4981292,
+    -81.6908833
+  ],
+  "FD-IX (College Station, TX, United States)": [
+    30.67419,
+    -96.3758583
+  ],
+  "FD-IX (Columbus, OH, United States)": [
+    40.116569,
+    -83.002043
+  ],
+  "FD-IX (Dallas, TX, United States)": [
+    33.009295,
+    -96.676434
+  ],
+  "FD-IX (Des Moines, IA, United States)": [
+    41.58568506269247,
+    -93.62495549778403
+  ],
+  "FD-IX (Houston, TX, United States)": [
+    29.945906,
+    -95.425333
+  ],
+  "FD-IX (Indianapolis, IN, United States)": [
+    39.7593741,
+    -86.174424
+  ],
+  "FD-IX (Kansas City, MO, United States)": [
+    39.159107,
+    -94.471342
+  ],
+  "FD-IX (Louisville, KY, United States)": [
+    38.245916,
+    -85.75796
+  ],
+  "FD-IX (Riga, Latvia)": [
+    56.923961,
+    24.137042
+  ],
+  "FD-IX (San Antonio, TX, United States)": [
+    29.429369,
+    -98.4889797
+  ],
+  "FD-IX (South Bend, IN, United States)": [
+    41.6669737,
+    -86.2669786
+  ],
+  "FD-IX (St. Louis, MO, United States)": [
+    38.625471,
+    -90.195222
+  ],
+  "FICIX-1 (Helsinki, Finland)": [
+    60.21607305605382,
+    24.87780749573754
+  ],
+  "FICIX-2 (Helsinki, Finland)": [
+    60.204175,
+    24.919256
+  ],
+  "FICIX-3 (Oulu, Finland)": [
+    65.0127918,
+    25.4665337
+  ],
+  "FIXO (Kristiansand, Norway)": [
+    58.2573864,
+    7.8906242
+  ],
+  "FIXO (Oslo, Norway)": [
+    59.9259905,
+    10.8092174
+  ],
+  "FL-IX (Miami, FL, United States)": [
+    25.78262624,
+    -80.193069234
+  ],
+  "FNIX (Vancouver, BC, Canada)": [
+    49.2841679,
+    -123.1120869
+  ],
+  "FOX (Hsinchu, Taiwan)": [
+    24.782524,
+    120.995793
+  ],
+  "FOX (Taichung, Taiwan)": [
+    24.204137,
+    120.608322
+  ],
+  "FOX (Tainan, Taiwan)": [
+    23.100495,
+    120.281537
+  ],
+  "FOX (Taipei, Taiwan)": [
+    25.063275824758097,
+    121.57797262473754
+  ],
+  "FRYS-IX (Amsterdam, Netherlands)": [
+    52.3544486,
+    4.954004
+  ],
+  "FRYS-IX (Leeuwarden, Netherlands)": [
+    53.2048902,
+    5.7652773
+  ],
+  "FSIX (Sandefjord, Norway)": [
+    59.1755664,
+    10.2141081
+  ],
+  "FURB IX (Blumenau, Brazil)": [
+    -26.9057358,
+    -49.0811931
+  ],
+  "FVIXP (Osh, Kyrgyzstan)": [
+    40.5324498,
+    72.7936096
+  ],
+  "Filanko IX (Kyiv, Ukraine)": [
+    50.429447,
+    30.546693
+  ],
+  "France-IX Grenoble (Grenoble, France)": [
+    45.1647054,
+    5.7132464
+  ],
+  "France-IX Lille (Lille, France)": [
+    50.59097069032507,
+    3.13448932612687
+  ],
+  "France-IX Lyon (Lyon, France)": [
+    45.7292371,
+    4.8414232
+  ],
+  "France-IX Marseille (Marseille, France)": [
+    43.359822,
+    5.337878
+  ],
+  "France-IX Paris (Paris, France)": [
+    48.9041096,
+    2.2571685
+  ],
+  "France-IX Toulouse (Toulouse, France)": [
+    43.62009,
+    1.4212071670138249
+  ],
+  "Free-IX (Geneva, Switzerland)": [
+    46.1654104,
+    6.104997
+  ],
+  "Free-IX (Lugano, Switzerland)": [
+    46.02271361655592,
+    8.917179672642215
+  ],
+  "Free-IX (Z\u0102\u013drich, Switzerland)": [
+    47.449523,
+    8.540425
+  ],
+  "GABIX (Libreville, Gabon)": [
+    0.41282,
+    9.4372178
+  ],
+  "GCIIX (Chicago, IL, United States)": [
+    41.8541674,
+    -87.618531
+  ],
+  "GE-CIX (Amsterdam, Netherlands)": [
+    52.356359,
+    4.950787
+  ],
+  "GE-CIX (Frankfurt, Germany)": [
+    50.1282537731062,
+    8.601467683791077
+  ],
+  "GIBIRIX (Bursa, Turkey)": [
+    40.268007,
+    29.088364
+  ],
+  "GIBIRIX (Konya, Turkey)": [
+    37.882464383655204,
+    32.472009524533846
+  ],
+  "GIGAPIX (Lisbon, Portugal)": [
+    38.760417,
+    -9.141556
+  ],
+  "GIGAPIX (Porto, Portugal)": [
+    41.17783,
+    -8.594983
+  ],
+  "GIX (Accra, Ghana)": [
+    5.559468,
+    -0.192713
+  ],
+  "GLV-IX (Riga, Latvia)": [
+    56.923961,
+    24.137042
+  ],
+  "GNM-IX (Amsterdam, Netherlands)": [
+    52.3544486,
+    4.954004
+  ],
+  "GNM-IX (Berlin, Germany)": [
+    52.465789,
+    13.370104
+  ],
+  "GNM-IX (Ekaterinburg, Russia)": [
+    56.837382,
+    60.619359
+  ],
+  "GNM-IX (Frankfurt, Germany)": [
+    50.1282537731062,
+    8.601467683791077
+  ],
+  "GNM-IX (Helsinki, Finland)": [
+    60.204175,
+    24.919256
+  ],
+  "GNM-IX (Moscow, Russia)": [
+    55.806171,
+    37.5473457
+  ],
+  "GNM-IX (Novosibirsk, Russia)": [
+    55.0266208,
+    82.9261804
+  ],
+  "GNM-IX (Singapore, Singapore)": [
+    1.3539721,
+    103.8645963
+  ],
+  "GNM-IX (Sofia, Bulgaria)": [
+    42.7026051,
+    23.3059837
+  ],
+  "GNM-IX (St. Petersburg, Russia)": [
+    60.03253,
+    30.284307
+  ],
+  "GNM-IX (Stockholm, Sweden)": [
+    59.3626978,
+    17.9555879
+  ],
+  "GNM-IX (Warsaw, Poland)": [
+    52.2276614,
+    21.00425
+  ],
+  "GOMIX (Goma, Congo, Dem. Rep.)": [
+    -1.658501,
+    29.2204548
+  ],
+  "GOREX (Piti, Guam)": [
+    13.4626885,
+    144.6911949
+  ],
+  "GPC Missouri (Kansas City, MO, United States)": [
+    39.13703589189635,
+    -94.57756823110981
+  ],
+  "GPIEX (New York, NY, United States)": [
+    40.717664,
+    -74.008333
+  ],
+  "GPMIX (Jakarta, Indonesia)": [
+    -6.23868,
+    106.824063
+  ],
+  "GR-IX::Athens (Athens, Greece)": [
+    37.8710369,
+    23.8707349
+  ],
+  "GR-IX::Thessaloniki (Thessaloniki, Greece)": [
+    40.662001,
+    22.8594618
+  ],
+  "GRAX (Graz, Austria)": [
+    47.0285097,
+    15.4913329
+  ],
+  "GREX (St. George\u00e2\u20ac\u2122s, Grenada)": [
+    12.0141872,
+    -61.7622248
+  ],
+  "GRR-iX (Grand Rapids, MI, United States)": [
+    42.825789,
+    -85.673157
+  ],
+  "GTIIX (Toronto, ON, Canada)": [
+    43.6509276,
+    -79.3617763
+  ],
+  "Ge-DIX (Genoa, Italy)": [
+    44.42817479942084,
+    8.92098961231721
+  ],
+  "GetaFIX (Cebu, Philippines)": [
+    10.3367229,
+    123.9287153
+  ],
+  "GetaFIX (Davao, Philippines)": [
+    7.0497474,
+    125.5880234
+  ],
+  "GetaFIX (Manila, Philippines)": [
+    14.312284172055437,
+    121.0515120797612
+  ],
+  "GigaNET (Kharkiv, Ukraine)": [
+    49.98461,
+    36.188725
+  ],
+  "GigaNET (Kyiv, Ukraine)": [
+    50.429447,
+    30.546693
+  ],
+  "GigaNET (Odessa, Ukraine)": [
+    46.48929,
+    30.677495
+  ],
+  "GigaNET (Zaporozhye, Ukraine)": [
+    47.8312581282587,
+    35.158178931989504
+  ],
+  "GigaNET IXN Frankfurt (Frankfurt, Germany)": [
+    50.1282537731062,
+    8.601467683791077
+  ],
+  "Global Peer Exchange (Rio de Janeiro, Brazil)": [
+    -22.87152,
+    -43.272836
+  ],
+  "Global Peer Exchange (Santana de Parnaiba, Brazil)": [
+    -23.4661188,
+    -46.8653823
+  ],
+  "Global Peer Exchange (S\u0102\u0141o Paulo, Brazil)": [
+    -23.546145,
+    -46.635633
+  ],
+  "Global-IX (Amsterdam, Netherlands)": [
+    52.356671,
+    4.952501
+  ],
+  "Global-IX (Frankfurt, Germany)": [
+    50.12007,
+    8.73561
+  ],
+  "Global-IX (Helsinki, Finland)": [
+    60.1844923,
+    24.8153681
+  ],
+  "Global-IX (Moscow, Russia)": [
+    55.6525619,
+    37.5291024
+  ],
+  "Global-IX (Sofia, Bulgaria)": [
+    42.7026051,
+    23.3059837
+  ],
+  "Global-IX (St. Petersburg, Russia)": [
+    59.887231,
+    30.3269113
+  ],
+  "Global-IX (Stockholm, Sweden)": [
+    59.3626978,
+    17.9555879
+  ],
+  "GrunIX (Groningen, Netherlands)": [
+    53.246048,
+    6.52852
+  ],
+  "HFXIX (Charlottetown, PE, Canada)": [
+    46.2370585,
+    -63.1302736
+  ],
+  "HFXIX (Halifax, NS, Canada)": [
+    44.655166,
+    -63.626648
+  ],
+  "HFXIX (Moncton, NB, Canada)": [
+    46.0843447,
+    -64.8138275
+  ],
+  "HFXIX (Saint John, NB, Canada)": [
+    45.2720015,
+    -66.0644511
+  ],
+  "HKIX (Hong Kong, China)": [
+    22.41966,
+    114.206315
+  ],
+  "HOPUS (Amsterdam, Netherlands)": [
+    52.356359,
+    4.950787
+  ],
+  "HOPUS (Frankfurt, Germany)": [
+    50.119951,
+    8.738537
+  ],
+  "HOPUS (Geneva, Switzerland)": [
+    46.203391,
+    6.144675
+  ],
+  "HOPUS (Lyon, France)": [
+    45.7234963,
+    4.8644622
+  ],
+  "HOPUS (Marseille, France)": [
+    43.3109242,
+    5.372926
+  ],
+  "HOPUS (Paris, France)": [
+    48.794708,
+    2.411799
+  ],
+  "HOPUS (Z\u0102\u013drich, Switzerland)": [
+    47.388002,
+    8.520291
+  ],
+  "HOUIX (Houston, TX, United States)": [
+    29.753559,
+    -95.365684
+  ],
+  "HamroIX (Rome, Italy)": [
+    41.8183812,
+    12.516849
+  ],
+  "Harare IX (Harare, Zimbabwe)": [
+    -17.8165877,
+    30.916772
+  ],
+  "ICX Bangalore (Bangalore, India)": [
+    12.971599,
+    77.594563
+  ],
+  "ICX Delhi (New Delhi, India)": [
+    28.6308592,
+    77.2073861
+  ],
+  "ICX Dubai (Dubai, United Arab Emirates)": [
+    25.0264285,
+    55.1844334
+  ],
+  "ICX Marseille (Marseille, France)": [
+    43.359822,
+    5.337878
+  ],
+  "ICX Mumbai (Mumbai, India)": [
+    19.141318,
+    73.008839
+  ],
+  "ICX Muscat (Muscat, Oman)": [
+    23.7268063,
+    57.7922093
+  ],
+  "ICX Queretaro (Santiago de Quer\u0102\u00a9taro, Mexico)": [
+    20.5659518,
+    -100.2567673
+  ],
+  "ICX Santiago (Santiago, Chile)": [
+    -33.357991,
+    -70.67626
+  ],
+  "ICX Seoul (Seoul, South Korea)": [
+    37.488139,
+    127.051167
+  ],
+  "ICX Taipei (Taipei, Taiwan)": [
+    25.073467,
+    121.577519
+  ],
+  "IF-IX (Ivano-Frankivsk, Ukraine)": [
+    48.91129,
+    24.716675
+  ],
+  "IIX (Tel Aviv, Israel)": [
+    32.09240541877535,
+    34.85894175508439
+  ],
+  "IIX-APJII (Jakarta, Indonesia)": [
+    -6.238541,
+    106.82416
+  ],
+  "IIX-Banten (Serang, Indonesia)": [
+    -6.11942,
+    106.174048
+  ],
+  "IIX-Jabar (Bandung, Indonesia)": [
+    -6.920441,
+    107.616148
+  ],
+  "IIX-Jambi (Jambi, Indonesia)": [
+    -1.612567,
+    103.604559
+  ],
+  "IIX-Jogja (Yogyakarta, Indonesia)": [
+    -7.781889,
+    110.374564
+  ],
+  "IIX-Lampung (Bandar Lampung, Indonesia)": [
+    -5.402546,
+    105.283458
+  ],
+  "IIX-Rimba-1 (Pekanbaru, Indonesia)": [
+    0.514108,
+    101.433812
+  ],
+  "IIX-Sulampua (Makassar, Indonesia)": [
+    -5.136896,
+    119.44173
+  ],
+  "INEX (Cork, Ireland)": [
+    51.90885302944443,
+    -8.513505683789912
+  ],
+  "INEX (Dublin, Ireland)": [
+    53.334251,
+    -6.365538
+  ],
+  "INTERIX (Amsterdam, Netherlands)": [
+    52.3544486,
+    4.954004
+  ],
+  "INTERIX (Rotterdam, Netherlands)": [
+    51.930257,
+    4.41404
+  ],
+  "INTERIX (The Hague, Netherlands)": [
+    52.033203,
+    4.496529
+  ],
+  "IPNET-IX Delhi (New Delhi, India)": [
+    28.6308592,
+    77.2073861
+  ],
+  "ITI-IX (Tashkent, Uzbekistan)": [
+    41.315984,
+    69.271252
+  ],
+  "IX Bradford (Leeds, United Kingdom)": [
+    53.79510547170267,
+    -1.7623786973288342
+  ],
+  "IX Liverpool (Liverpool, United Kingdom)": [
+    53.408811,
+    -2.932354
+  ],
+  "IX Provenet FLA (Fortaleza, Brazil)": [
+    -3.8306835,
+    -38.6137763
+  ],
+  "IX-Denver (Denver, CO, United States)": [
+    39.74572161117953,
+    -104.99559760093689
+  ],
+  "IX-Denver (Kansas City, MO, United States)": [
+    39.13703589189635,
+    -94.57756823110981
+  ],
+  "IX-Denver (Minneapolis, MN, United States)": [
+    44.9723813,
+    -93.2556691
+  ],
+  "IX-Denver (Omaha, NE, United States)": [
+    41.257446,
+    -95.940331
+  ],
+  "IX.KW (Kuwait City, Kuwait)": [
+    29.368182,
+    47.9723565
+  ],
+  "IX.br Aracaju (Aracaj\u0102\u015f, Brazil)": [
+    -10.9032931,
+    -37.1210883
+  ],
+  "IX.br Belo Horizonte (Belo Horizonte, Brazil)": [
+    -19.942621,
+    -43.923152
+  ],
+  "IX.br Bel\u0102\u00a9m (Bel\u0102\u00a9m, Brazil)": [
+    -1.458605,
+    -48.48776
+  ],
+  "IX.br Boa Vista (Boa Vista, Brazil)": [
+    2.8288412,
+    -60.6661504
+  ],
+  "IX.br Bras\u0102\u00adlia (Brasilia, Brazil)": [
+    -15.8110931,
+    -48.0433142
+  ],
+  "IX.br Bras\u0102\u00adlia (Guar\u0102\u02c7, Brazil)": [
+    -15.810229858081211,
+    -47.95168844725098
+  ],
+  "IX.br Campina Grande (Campina Grande, Brazil)": [
+    -7.213336,
+    -35.894073
+  ],
+  "IX.br Campinas (Campinas, Brazil)": [
+    -22.904592,
+    -47.057298
+  ],
+  "IX.br Campo Grande (Campo Grande, Brazil)": [
+    -20.44783228631585,
+    -54.59826551592396
+  ],
+  "IX.br Caruaru (Caruaru, Brazil)": [
+    -8.2727836,
+    -35.9951477
+  ],
+  "IX.br Cascavel (Cascavel, Brazil)": [
+    -24.987623182427075,
+    -53.450740287004606
+  ],
+  "IX.br Caxias do Sul (Caxias do Sul, Brazil)": [
+    -29.168109,
+    -51.182957
+  ],
+  "IX.br Cuiab\u0102\u02c7 (Cuiaba, Brazil)": [
+    -15.5675119,
+    -56.0772491
+  ],
+  "IX.br Curitiba (Curitiba, Brazil)": [
+    -25.424765977563514,
+    -49.28114037236296
+  ],
+  "IX.br Feira de Santana (Feira de Santana, Brazil)": [
+    -12.2549847,
+    -38.9383437
+  ],
+  "IX.br Florian\u0102\u0142polis (Florian\u0102\u0142polis, Brazil)": [
+    -27.600969,
+    -48.5232344
+  ],
+  "IX.br Fortaleza (Fortaleza, Brazil)": [
+    -3.8306835,
+    -38.6137763
+  ],
+  "IX.br Fortaleza (Serrinha, Brazil)": [
+    -3.7815637,
+    -38.5545118
+  ],
+  "IX.br Foz do Igua\u0102\u00a7u (Foz do Igua\u0102\u00a7\u0102\u015f, Brazil)": [
+    -25.5167449,
+    -54.5864453
+  ],
+  "IX.br Goi\u0102\u02d8nia (Goi\u0102\u02d8nia, Brazil)": [
+    -16.6062069,
+    -49.5251343
+  ],
+  "IX.br Jo\u0102\u0141o Pessoa (Jo\u0102\u0141o Pessoa, Brazil)": [
+    -7.117801,
+    -34.853411
+  ],
+  "IX.br Lajeado (Lajeado, Brazil)": [
+    -29.444795,
+    -51.957528
+  ],
+  "IX.br Londrina (Londrina, Brazil)": [
+    -23.313586,
+    -51.161235
+  ],
+  "IX.br Macei\u0102\u0142 (Macei\u0102\u0142, Brazil)": [
+    -9.661189695416542,
+    -35.74176675029813
+  ],
+  "IX.br Manaus (Manaus, Brazil)": [
+    -3.115364,
+    -60.0139988
+  ],
+  "IX.br Maring\u0102\u02c7 (Maring\u0102\u02c7, Brazil)": [
+    -23.4103925,
+    -51.9399468
+  ],
+  "IX.br Natal (Natal, Brazil)": [
+    -5.837036,
+    -35.213867
+  ],
+  "IX.br Palmas (Palmas, Brazil)": [
+    -10.2145889,
+    -48.337782
+  ],
+  "IX.br Porto Alegre (Brasilia, Brazil)": [
+    -15.789431712773169,
+    -47.91237880268089
+  ],
+  "IX.br Porto Alegre (Nova Prata, Brazil)": [
+    -28.7817857,
+    -51.6124924
+  ],
+  "IX.br Porto Alegre (Novo Hamburgo, Brazil)": [
+    -29.6786416,
+    -51.0572171
+  ],
+  "IX.br Porto Alegre (Porto Alegre, Brazil)": [
+    -30.02029849756213,
+    -51.21408358633178
+  ],
+  "IX.br Porto Alegre (Santo Ant\u0102\u00b4nio de Jesus, Brazil)": [
+    -12.9709622,
+    -39.3482223
+  ],
+  "IX.br Porto Velho (Porto Velho, Brazil)": [
+    -8.7588187,
+    -63.8899745
+  ],
+  "IX.br Recife (Recife, Brazil)": [
+    -8.062695,
+    -34.898342
+  ],
+  "IX.br Rio Branco (Rio Branco, Brazil)": [
+    -9.9576718,
+    -67.873501
+  ],
+  "IX.br Rio de Janeiro (Rio de Janeiro, Brazil)": [
+    -22.9549809,
+    -43.194589
+  ],
+  "IX.br Salvador (Salvador, Brazil)": [
+    -12.980963,
+    -38.455967
+  ],
+  "IX.br Santa Maria (Santa Maria, Brazil)": [
+    -29.6870058,
+    -53.8114965
+  ],
+  "IX.br S\u0102\u0141o Jos\u0102\u00a9 do Rio Preto (S\u0102\u0141o Jos\u0102\u00a9 do Rio Preto, Brazil)": [
+    -20.80888641153884,
+    -49.382941284651
+  ],
+  "IX.br S\u0102\u0141o Lu\u0102\u00ads (S\u0102\u0141o Luis, Brazil)": [
+    -2.538088,
+    -44.296482
+  ],
+  "IX.br S\u0102\u0141o Paulo (Brasilia, Brazil)": [
+    -15.789431712773169,
+    -47.91237880268089
+  ],
+  "IX.br S\u0102\u0141o Paulo (Campinas, Brazil)": [
+    -23.0710353,
+    -47.0140257
+  ],
+  "IX.br S\u0102\u0141o Paulo (Curitiba, Brazil)": [
+    -25.471613227019937,
+    -49.35090142976533
+  ],
+  "IX.br S\u0102\u0141o Paulo (Santana de Parnaiba, Brazil)": [
+    -23.496225,
+    -46.876923
+  ],
+  "IX.br S\u0102\u0141o Paulo (S\u0102\u0141o Paulo, Brazil)": [
+    -23.563448,
+    -46.646441
+  ],
+  "IX.br Teresina (Teresina, Brazil)": [
+    -5.096299,
+    -42.79888
+  ],
+  "IX.br Vit\u0102\u0142ria (Vila Velha, Brazil)": [
+    -20.277323,
+    -40.304187
+  ],
+  "IX.br Vit\u0102\u0142ria (Vitoria, Brazil)": [
+    -20.33511705083333,
+    -40.39076935057225
+  ],
+  "IX.py (Asuncion, Paraguay)": [
+    -25.288144,
+    -57.588436
+  ],
+  "IX.py (Ciudad del Este, Paraguay)": [
+    -25.516278,
+    -54.611251
+  ],
+  "IXG (Kutaisi, Georgia)": [
+    42.269895,
+    42.7005431
+  ],
+  "IXG (Tbilisi, Georgia)": [
+    41.7226779,
+    44.787155
+  ],
+  "IXLeeds (Leeds, United Kingdom)": [
+    53.793086,
+    -1.541013
+  ],
+  "IXOR (Malm\u0102\u00b6, Sweden)": [
+    55.6068184,
+    12.998449
+  ],
+  "IXP Ecuador - STD (Santo Domingo, Dominican Republic)": [
+    18.48681,
+    -69.940539
+  ],
+  "IXP Ecuador-MEC (Manta, Ecuador)": [
+    -0.967653,
+    -80.70891
+  ],
+  "IXP Mexicano (Mexico City, Mexico)": [
+    19.364221986858972,
+    -99.27676104486167
+  ],
+  "IXP-HN (Tegucigalpa, Honduras)": [
+    14.082903,
+    -87.163009
+  ],
+  "IXP.MX Quer\u0102\u00a9taro (Santiago de Quer\u0102\u00a9taro, Mexico)": [
+    20.5659518,
+    -100.2567673
+  ],
+  "IXP.mk (Skopje, North Macedonia)": [
+    41.9977765,
+    21.4312194
+  ],
+  "IXPN (Abuja, Nigeria)": [
+    9.0676487,
+    7.487595
+  ],
+  "IXPN (Enugu, Nigeria)": [
+    6.4371223,
+    7.5194969
+  ],
+  "IXPN (Kano, Nigeria)": [
+    11.998574,
+    8.559133
+  ],
+  "IXPN (Lagos, Nigeria)": [
+    6.5985919,
+    3.368917
+  ],
+  "IXPN (Port Harcourt, Nigeria)": [
+    4.805936,
+    7.00595
+  ],
+  "IXPlay Peers (Frankfurt, Germany)": [
+    50.11967,
+    8.7324413
+  ],
+  "IXPlay Peers (Madrid, Spain)": [
+    40.5135303,
+    -3.6716935
+  ],
+  "IXPlay Peers (Murcia, Spain)": [
+    37.991254829419425,
+    -1.118018204454932
+  ],
+  "IXPlay Peers (Paris, France)": [
+    48.8560137,
+    2.3834406
+  ],
+  "IXPlay Peers (Perth, WA, Australia)": [
+    -31.864402,
+    115.895935
+  ],
+  "IXPlay Peers (Seville, Spain)": [
+    37.39728,
+    -5.947282
+  ],
+  "IXRR IX Amazonas (Manaus, Brazil)": [
+    -3.106199,
+    -60.012623
+  ],
+  "IXRR IX Roraima (Boa Vista, Brazil)": [
+    2.819289,
+    -60.705592
+  ],
+  "IXSY (M\u0102\u00a9rida, Mexico)": [
+    21.039466,
+    -89.6568707
+  ],
+  "IdahoIX (Boise, ID, United States)": [
+    43.5797176915056,
+    -116.29068677212004
+  ],
+  "Impart IX (Cardiff, United Kingdom)": [
+    51.478187,
+    -3.180582
+  ],
+  "Impart IX (London, United Kingdom)": [
+    51.494704,
+    -0.018699
+  ],
+  "InterLAN-IX (Arad, Romania)": [
+    46.199254,
+    21.319733
+  ],
+  "InterLAN-IX (Bucharest, Romania)": [
+    44.39333287326921,
+    26.123636342060426
+  ],
+  "InterLAN-IX (Cluj Napoca, Romania)": [
+    46.757258,
+    23.594142
+  ],
+  "InterLAN-IX (Constanta, Romania)": [
+    44.188283,
+    28.650439
+  ],
+  "InterLAN-IX (Craiova, Romania)": [
+    44.3211194531755,
+    23.791935895888532
+  ],
+  "InterLAN-IX (Frankfurt, Germany)": [
+    50.1282537731062,
+    8.601467683791077
+  ],
+  "InterLAN-IX (Suceava, Romania)": [
+    47.6356311,
+    26.2318915
+  ],
+  "InterLAN-IX (Timisoara, Romania)": [
+    45.747175,
+    21.22892
+  ],
+  "Intered Panam\u0102\u02c7 (Panama City, Panama)": [
+    8.975564288544735,
+    -79.56639617575547
+  ],
+  "Iraq-IXP (Baghdad, Iraq)": [
+    33.3113716,
+    44.0757226
+  ],
+  "JEDIX (Jeddah, Saudi Arabia)": [
+    21.481547,
+    39.182863
+  ],
+  "JINX (Johannesburg, South Africa)": [
+    -25.927837,
+    28.1495691
+  ],
+  "JKT-IX (Bali, Indonesia)": [
+    -8.636464,
+    115.183362
+  ],
+  "JKT-IX (Jakarta, Indonesia)": [
+    -6.23868,
+    106.824063
+  ],
+  "JKT-IX (Surabaya, Indonesia)": [
+    -7.272863,
+    112.74313
+  ],
+  "JKT-IX (Yogyakarta, Indonesia)": [
+    -7.78236,
+    110.37514
+  ],
+  "JPIX Fukuoka (Fukuoka, Japan)": [
+    33.5902,
+    130.4017
+  ],
+  "JPIX Metropolitan Tokyo (Tokyo, Japan)": [
+    35.6427235,
+    139.7391235
+  ],
+  "JPIX Osaka (Osaka, Japan)": [
+    34.6757188,
+    135.493392
+  ],
+  "JPNAP Fukuoka (Fukuoka, Japan)": [
+    33.5902,
+    130.4017
+  ],
+  "JPNAP Osaka (Osaka, Japan)": [
+    34.6757188,
+    135.493392
+  ],
+  "JPNAP Sapporo (Sapporo, Japan)": [
+    43.062096,
+    141.354376
+  ],
+  "JPNAP Sendai (Sendai, Japan)": [
+    38.25851648074094,
+    140.87346593565968
+  ],
+  "JPNAP Tokyo (Matsue, Japan)": [
+    35.46806,
+    133.048375
+  ],
+  "JPNAP Tokyo (Tokyo, Japan)": [
+    35.801655,
+    140.129565
+  ],
+  "JSAX (Redding, CA, United States)": [
+    40.61108,
+    -122.38214
+  ],
+  "JTIX (Bangkok, Thailand)": [
+    13.75333,
+    100.504822
+  ],
+  "JumboIX Cyprus (Limassol, Cyprus)": [
+    34.6817966,
+    33.0475276
+  ],
+  "JumboIX Lima (Lima, Peru)": [
+    -12.089054,
+    -76.973144
+  ],
+  "JumboIX Lima (Santana de Parnaiba, Brazil)": [
+    -23.4661188,
+    -46.8653823
+  ],
+  "KA-NIX (Karlsruhe, Germany)": [
+    49.011019,
+    8.416564
+  ],
+  "KAZ-GOV-IX (Astana, Kazakhstan)": [
+    51.1247371,
+    71.4301595
+  ],
+  "KCIX (Kansas City, MO, United States)": [
+    39.13703589189635,
+    -94.57756823110981
+  ],
+  "KG-IX (Bishkek, Kyrgyzstan)": [
+    42.866361,
+    74.619944
+  ],
+  "KH-IX (Kharkiv, Ukraine)": [
+    49.98461,
+    36.188725
+  ],
+  "KINIX (Kinshasa, Congo, Dem. Rep.)": [
+    -4.302922,
+    15.311624
+  ],
+  "KINX (Seoul, South Korea)": [
+    37.557121,
+    126.977379
+  ],
+  "KIVIX (Bucharest, Romania)": [
+    44.479452,
+    26.112903
+  ],
+  "KIVIX (Chisinau, Moldova)": [
+    47.027945142168626,
+    28.83559619088593
+  ],
+  "KIXP (Nairobi, Kenya)": [
+    -1.3492808025892422,
+    36.748559181990984
+  ],
+  "KIXP MSA (Mombasa, Kenya)": [
+    -4.007715355950762,
+    39.59064617939518
+  ],
+  "KLIX (Dhaka, Bangladesh)": [
+    23.7814311157819,
+    90.40017729767882
+  ],
+  "KOSIX (Pristina, Kosovo)": [
+    42.6644873,
+    21.159737
+  ],
+  "KazNIX (Semey, Kazakhstan)": [
+    50.40024,
+    80.256667
+  ],
+  "KleyReX (D\u0102\u013dsseldorf, Germany)": [
+    51.1878821,
+    6.8498535
+  ],
+  "KleyReX (Frankfurt, Germany)": [
+    50.12681436455641,
+    8.581669382915413
+  ],
+  "KleyReX (Hamburg, Germany)": [
+    53.638939,
+    10.015626
+  ],
+  "Kremen-IX (Kyiv, Ukraine)": [
+    50.429447,
+    30.546693
+  ],
+  "LBIX (Beirut, Lebanon)": [
+    33.871243,
+    35.51661
+  ],
+  "LILLIX (Lille, France)": [
+    50.5868476,
+    3.1293709
+  ],
+  "LILLIX (Valenciennes, France)": [
+    50.3780396,
+    3.5199719
+  ],
+  "LINX Accra (Accra, Ghana)": [
+    5.766276319452754,
+    -0.1109638905982095
+  ],
+  "LINX London (London, United Kingdom)": [
+    51.4988423,
+    -0.0143269
+  ],
+  "LINX Manchester (Manchester, United Kingdom)": [
+    53.475126,
+    -2.294206
+  ],
+  "LINX Nairobi (Nairobi, Kenya)": [
+    -1.325673,
+    36.865728
+  ],
+  "LINX NoVA (Washington, DC, United States)": [
+    38.99433644153418,
+    -77.44743429280697
+  ],
+  "LINX Scotland (Edinburgh, United Kingdom)": [
+    55.929709,
+    -3.2940052
+  ],
+  "LINX Scotland (Glasgow, United Kingdom)": [
+    55.8343733,
+    -3.9525461
+  ],
+  "LINX Wales (Cardiff, United Kingdom)": [
+    51.478187,
+    -3.180582
+  ],
+  "LINX Wales (Newport, United Kingdom)": [
+    51.5529035,
+    -3.0389071
+  ],
+  "LITIX (Vilnius, Lithuania)": [
+    54.6916102,
+    25.2852414
+  ],
+  "LIX (Riga, Latvia)": [
+    56.923961,
+    24.137042
+  ],
+  "LIXP (Maseru, Lesotho)": [
+    -29.313163,
+    27.472953
+  ],
+  "LIXP (Vilnius, Lithuania)": [
+    54.675434,
+    25.253105
+  ],
+  "LNK-IX (Bucharest, Romania)": [
+    44.482035908741835,
+    26.12083224114654
+  ],
+  "LONAP (London, United Kingdom)": [
+    51.5200541,
+    -0.614087
+  ],
+  "LSIX (Amsterdam, Netherlands)": [
+    52.356359,
+    4.950787
+  ],
+  "LSIX (Rotterdam, Netherlands)": [
+    51.930257,
+    4.41404
+  ],
+  "LSIX (The Hague, Netherlands)": [
+    52.064606,
+    4.386919
+  ],
+  "LU-CIX (Luxembourg, Luxembourg)": [
+    49.789873,
+    6.085581
+  ],
+  "LUBIX (Lubumbashi, Congo, Dem. Rep.)": [
+    -11.664677,
+    27.479553
+  ],
+  "LabIX (Copenhagen, Denmark)": [
+    55.676358,
+    12.54552
+  ],
+  "Linxdatacenter-IX (Moscow, Russia)": [
+    55.806171,
+    37.5473457
+  ],
+  "LocIX (Amsterdam, Netherlands)": [
+    52.356359,
+    4.950787
+  ],
+  "LocIX (Apeldoorn, Netherlands)": [
+    52.24703,
+    6.001603
+  ],
+  "LocIX (D\u0102\u013dsseldorf, Germany)": [
+    51.26721,
+    6.8174
+  ],
+  "LocIX (Frankfurt, Germany)": [
+    50.1399,
+    8.74346
+  ],
+  "LocIX (Groningen, Netherlands)": [
+    53.246048,
+    6.52852
+  ],
+  "LocIX (Lelystad, Netherlands)": [
+    52.5436556,
+    5.7048204
+  ],
+  "LocIX (Meppel, Netherlands)": [
+    52.7172492,
+    6.1965309
+  ],
+  "LocIX Dusseldorf (D\u0102\u013dsseldorf, Germany)": [
+    51.1878821,
+    6.8498535
+  ],
+  "Lodz IX (Lodz, Poland)": [
+    51.760432,
+    19.459149
+  ],
+  "Lodz IX (Warsaw, Poland)": [
+    52.2276614,
+    21.00425
+  ],
+  "Lviv-ix (Lviv, Ukraine)": [
+    49.8327787,
+    23.9421958
+  ],
+  "MAGPI (Philadelphia, PA, United States)": [
+    39.952998,
+    -75.193026
+  ],
+  "MAN LAN (New York, NY, United States)": [
+    40.72,
+    -74.004561
+  ],
+  "MARIIX (Hag\u0102\u0104t\u0102\u00b1a, Guam)": [
+    13.4322112,
+    144.8011332
+  ],
+  "MARIX (Rabat, Morocco)": [
+    33.990386,
+    -6.849631
+  ],
+  "MB-IX (Mbabane, Eswatini)": [
+    -26.305448,
+    31.136672
+  ],
+  "MBIX (Winnipeg, MB, Canada)": [
+    49.892296,
+    -97.146307
+  ],
+  "MD-IX (Chisinau, Moldova)": [
+    47.027945142168626,
+    28.83559619088593
+  ],
+  "MEX-IX El Paso (El Paso, TX, United States)": [
+    31.7501787,
+    -106.3129629
+  ],
+  "MEX-IX McAllen (McAllen, TX, United States)": [
+    26.199362688063637,
+    -98.23224087074217
+  ],
+  "MGIX (Antananarivo, Madagascar)": [
+    -18.87796,
+    47.50882
+  ],
+  "MGMix (Montgomery, AL, United States)": [
+    32.378355,
+    -86.302989
+  ],
+  "MHK-IX (Manila, Philippines)": [
+    14.560837,
+    121.016635
+  ],
+  "MICE (Albert Lea, MN, United States)": [
+    43.63350931369881,
+    -93.38388191734302
+  ],
+  "MICE (Duluth, MN, United States)": [
+    46.78515084164617,
+    -92.10310475956629
+  ],
+  "MICE (Kansas City, MO, United States)": [
+    39.13703589189635,
+    -94.57756823110981
+  ],
+  "MICE (Minneapolis, MN, United States)": [
+    44.9723813,
+    -93.2556691
+  ],
+  "MIE.MX (Tijuana, Mexico)": [
+    32.54183,
+    -117.026771
+  ],
+  "MINAP (Milan, Italy)": [
+    45.4789921,
+    9.1026941
+  ],
+  "MIX (Blantyre, Malawi)": [
+    -15.801895839125521,
+    35.01548767089844
+  ],
+  "MIX-IT Bologna (Bologna, Italy)": [
+    44.50884285907243,
+    11.364133482184268
+  ],
+  "MIX-IT Milan (Bologna, Italy)": [
+    44.50884285907243,
+    11.364133482184268
+  ],
+  "MIX-IT Milan (Milan, Italy)": [
+    45.4484752,
+    9.1464598
+  ],
+  "MIX-IT Milan (Modena, Italy)": [
+    45.7063871,
+    9.5874989
+  ],
+  "MIX-IT Milan (Rome, Italy)": [
+    41.9327411,
+    12.6272787
+  ],
+  "MIX-IT Palermo (Palermo, Italy)": [
+    38.1575216,
+    13.1962619
+  ],
+  "MIXP (Port Louis, Mauritius)": [
+    -20.24444160723541,
+    57.49214172363281
+  ],
+  "MIXP.me (Podgorica, Montenegro)": [
+    42.4418224,
+    19.2423586
+  ],
+  "MKEIX (Milwaukee, WI, United States)": [
+    43.039011,
+    -87.9069449
+  ],
+  "MMIX (Mandalay, Myanmar)": [
+    21.96483203708938,
+    96.10883428884497
+  ],
+  "MMIX (Yangon, Myanmar)": [
+    16.8506144,
+    96.1268548
+  ],
+  "MN-IX (Manama, Bahrain)": [
+    26.0742043,
+    50.6131483
+  ],
+  "MS-IX (M\u0102\u013dnster, Germany)": [
+    51.9451733,
+    7.6183213
+  ],
+  "MSK-IX Ekaterinburg (Ekaterinburg, Russia)": [
+    56.846277,
+    60.643412
+  ],
+  "MSK-IX Kazan (Kazan, Russia)": [
+    55.7808568,
+    49.1342594
+  ],
+  "MSK-IX Moscow (Moscow, Russia)": [
+    55.806171,
+    37.5473457
+  ],
+  "MSK-IX Novosibirsk (Novosibirsk, Russia)": [
+    55.0266208,
+    82.9261804
+  ],
+  "MSK-IX Rostov-on-Don (Rostov-on-Don, Russia)": [
+    47.232945,
+    39.71459
+  ],
+  "MSK-IX Samara (Samara, Russia)": [
+    53.204049,
+    50.124127
+  ],
+  "MSK-IX St. Petersburg (St. Petersburg, Russia)": [
+    59.8507737,
+    30.2174362
+  ],
+  "MSK-IX Stavropol (Stavropol, Russia)": [
+    45.045349,
+    41.969603
+  ],
+  "MSK-IX Udomlya (Udomlya, Russia)": [
+    57.8955419,
+    35.0290386
+  ],
+  "MSK-IX Vladivostok (Vladivostok, Russia)": [
+    43.097603,
+    131.865705
+  ],
+  "MUS-IX (Dallas, TX, United States)": [
+    32.77825,
+    -96.798971
+  ],
+  "MVIXP (Male, Maldives)": [
+    4.177914,
+    73.515076
+  ],
+  "MWestIX (Salt Lake City, UT, United States)": [
+    40.756316,
+    -111.955031
+  ],
+  "MYNAP (Kuala Lumpur, Malaysia)": [
+    2.928374,
+    101.659014
+  ],
+  "MadIX (Madison, WI, United States)": [
+    43.0727066,
+    -89.387195
+  ],
+  "ManxIX (Douglas, Isle of Man)": [
+    54.1481199,
+    -4.4804339
+  ],
+  "Mashhad IX (Mashhad, Iran)": [
+    36.260462,
+    59.616755
+  ],
+  "Matrix IX (Jakarta, Indonesia)": [
+    -6.217293,
+    106.831548
+  ],
+  "MegaIX Adelaide (Adelaide, SA, Australia)": [
+    -34.9684576,
+    138.5732163
+  ],
+  "MegaIX Ashburn (Baltimore, MD, United States)": [
+    39.21458053588867,
+    -76.67923736572266
+  ],
+  "MegaIX Ashburn (Richmond, VA, United States)": [
+    37.488073,
+    -77.2441769
+  ],
+  "MegaIX Ashburn (Washington, DC, United States)": [
+    39.026171552,
+    -77.412813537
+  ],
+  "MegaIX Atlanta (Atlanta, GA, United States)": [
+    33.75561037354432,
+    -84.39165115356445
+  ],
+  "MegaIX Auckland (Auckland, New Zealand)": [
+    -36.750412,
+    174.69607
+  ],
+  "MegaIX Bay Area (San Francisco, CA, United States)": [
+    37.2415096,
+    -121.7817521
+  ],
+  "MegaIX Brisbane (Brisbane, QLD, Australia)": [
+    -27.582341,
+    153.0974593
+  ],
+  "MegaIX Brisbane (Toowoomba, QLD, Australia)": [
+    -27.537980236268133,
+    151.8407598032315
+  ],
+  "MegaIX Charlotte (Charlotte, NC, United States)": [
+    35.173088,
+    -80.927807
+  ],
+  "MegaIX Chicago (Chicago, IL, United States)": [
+    41.9286207,
+    -87.8609582
+  ],
+  "MegaIX Dallas (Dallas, TX, United States)": [
+    33.094894,
+    -96.6854487
+  ],
+  "MegaIX Denver (Denver, CO, United States)": [
+    39.550215,
+    -105.033374
+  ],
+  "MegaIX Las Vegas (Las Vegas, NV, United States)": [
+    36.059125,
+    -115.1455429
+  ],
+  "MegaIX Los Angeles (Los Angeles, CA, United States)": [
+    34.047991,
+    -118.25557
+  ],
+  "MegaIX Melbourne (Melbourne, VIC, Australia)": [
+    -37.82202,
+    144.9324765
+  ],
+  "MegaIX Miami (Miami, FL, United States)": [
+    25.78262624,
+    -80.193069234
+  ],
+  "MegaIX New York (New York, NY, United States)": [
+    40.5815421,
+    -74.5736396
+  ],
+  "MegaIX Perth (Perth, WA, Australia)": [
+    -31.864402,
+    115.895935
+  ],
+  "MegaIX Seattle (Moses Lake, WA, United States)": [
+    47.254022,
+    -119.820537
+  ],
+  "MegaIX Seattle (Seattle, WA, United States)": [
+    47.495471,
+    -122.2910526
+  ],
+  "MegaIX Seattle (Spokane, WA, United States)": [
+    47.671756,
+    -117.091193
+  ],
+  "MegaIX Singapore (Singapore, Singapore)": [
+    1.376119,
+    103.875089
+  ],
+  "MegaIX Sofia (OM-NIX) (Sofia, Bulgaria)": [
+    42.625932,
+    23.376693
+  ],
+  "MegaIX Sydney (Sydney, NSW, Australia)": [
+    -34.46325025595488,
+    150.85790747292745
+  ],
+  "MegaIX Toronto (Toronto, ON, Canada)": [
+    43.6419945,
+    -79.4121273
+  ],
+  "Megalink-IXP (La Paz, Bolivia)": [
+    -16.511761,
+    -68.126417
+  ],
+  "MonIX (Moncton, NB, Canada)": [
+    46.0843447,
+    -64.8138275
+  ],
+  "MyIX (Johor Bahru, Malaysia)": [
+    1.426461,
+    103.607333
+  ],
+  "MyIX (Kuala Lumpur, Malaysia)": [
+    3.149439,
+    101.705977
+  ],
+  "MyIX (Kuching, Malaysia)": [
+    1.524748,
+    110.387014
+  ],
+  "N-IX (Nuremberg, Germany)": [
+    49.41013,
+    11.13012
+  ],
+  "NAP Colombia (Bogot\u0102\u02c7, Colombia)": [
+    4.6810481466182,
+    -74.04094487428665
+  ],
+  "NAP del Caribe (Santo Domingo, Dominican Republic)": [
+    18.4712,
+    -69.931203
+  ],
+  "NAP-Peru (Lima, Peru)": [
+    -12.112145759650836,
+    -77.02894871429145
+  ],
+  "NAP.EC (Guayaquil, Ecuador)": [
+    -2.20382,
+    -79.897461
+  ],
+  "NAP.EC (Quito, Ecuador)": [
+    -0.1731402,
+    -78.5057492
+  ],
+  "NAPAfrica CT (Cape Town, South Africa)": [
+    -33.9700507,
+    18.4622284
+  ],
+  "NAPAfrica DB (Durban, South Africa)": [
+    -29.7793236,
+    30.9924543
+  ],
+  "NAPAfrica JB (Johannesburg, South Africa)": [
+    -26.13778,
+    28.19756
+  ],
+  "NASA-AIX (San Francisco, CA, United States)": [
+    37.4158613,
+    -122.0716535
+  ],
+  "NCL-IX (Newcastle, United Kingdom)": [
+    55.0173446,
+    -1.50420576
+  ],
+  "NDIX (Arnhem, Netherlands)": [
+    51.987536,
+    5.932303
+  ],
+  "NDIX (Ede, Netherlands)": [
+    52.0276117,
+    5.6242624
+  ],
+  "NDIX (Heerlen, Netherlands)": [
+    50.887135,
+    5.9781619
+  ],
+  "NDIX (Lelystad, Netherlands)": [
+    52.5436556,
+    5.7048204
+  ],
+  "NDIX (Rotterdam, Netherlands)": [
+    51.846358,
+    4.678539
+  ],
+  "NDIX (Utrecht, Netherlands)": [
+    52.122761,
+    5.1408985
+  ],
+  "NEO-IX (Akron, OH, United States)": [
+    41.0750252,
+    -81.5259206
+  ],
+  "NEO-IX (Cleveland, OH, United States)": [
+    41.505785,
+    -81.684759
+  ],
+  "NFX (Prague, Czech Republic)": [
+    50.0601656,
+    14.4829317
+  ],
+  "NIX-BD (Noakhali, Bangladesh)": [
+    22.831201790117106,
+    91.09896983068641
+  ],
+  "NIX.CZ (Bratislava, Slovakia)": [
+    48.1647968,
+    17.1576724
+  ],
+  "NIX.CZ (Frankfurt, Germany)": [
+    50.1282537731062,
+    8.601467683791077
+  ],
+  "NIX.CZ (Prague, Czech Republic)": [
+    50.0781243,
+    14.4752765
+  ],
+  "NIX.CZ (Vienna, Austria)": [
+    48.2697621,
+    16.4102279
+  ],
+  "NIX.SK (Bratislava, Slovakia)": [
+    48.1647968,
+    17.1576724
+  ],
+  "NIX.SK (Frankfurt, Germany)": [
+    50.1282537731062,
+    8.601467683791077
+  ],
+  "NIX.SK (Prague, Czech Republic)": [
+    50.0781243,
+    14.4752765
+  ],
+  "NIX.SK (Vienna, Austria)": [
+    48.2697621,
+    16.4102279
+  ],
+  "NIX1 (Oslo, Norway)": [
+    59.9384333,
+    10.8349712
+  ],
+  "NIX2 (Oslo, Norway)": [
+    59.9170368,
+    10.7347716
+  ],
+  "NIXA (Kabul, Afghanistan)": [
+    34.311,
+    69.1031
+  ],
+  "NIXI Ahmedabad (Ahmedabad, India)": [
+    23.1922654,
+    72.6394665
+  ],
+  "NIXI Bangalore (Bangalore, India)": [
+    12.99084,
+    77.760781
+  ],
+  "NIXI Chennai (Bhubaneshwar, India)": [
+    20.272076,
+    85.833282
+  ],
+  "NIXI Chennai (Chennai, India)": [
+    12.9896416,
+    80.2463021
+  ],
+  "NIXI Chennai (Salem, India)": [
+    11.653585,
+    78.150429
+  ],
+  "NIXI Chennai (Tuticorine, India)": [
+    8.810684,
+    78.158595
+  ],
+  "NIXI Delhi (Amritsar, India)": [
+    31.630152,
+    74.827797
+  ],
+  "NIXI Delhi (Chandigarh, India)": [
+    30.719931,
+    76.768877
+  ],
+  "NIXI Delhi (Chennai, India)": [
+    13.0607949,
+    80.1337254
+  ],
+  "NIXI Delhi (Dehradun, India)": [
+    30.32434,
+    78.050387
+  ],
+  "NIXI Delhi (Jalandhar, India)": [
+    31.320923,
+    75.58285
+  ],
+  "NIXI Delhi (Lucknow, India)": [
+    26.8677122,
+    81.0101696
+  ],
+  "NIXI Delhi (Ludhiana, India)": [
+    30.901902,
+    75.833388
+  ],
+  "NIXI Delhi (New Delhi, India)": [
+    28.513678,
+    77.376944
+  ],
+  "NIXI Delhi (Patna, India)": [
+    25.6338916,
+    85.0966805
+  ],
+  "NIXI Delhi (Ranchi, India)": [
+    23.351496,
+    85.324759
+  ],
+  "NIXI Guwahati (Guwahati, India)": [
+    26.143531,
+    91.658822
+  ],
+  "NIXI Hyderabad (Hyderabad, India)": [
+    17.4410181,
+    78.3778312
+  ],
+  "NIXI Kolkata (Durgapur, India)": [
+    23.518222,
+    87.345851
+  ],
+  "NIXI Kolkata (Kolkata, India)": [
+    22.577522,
+    88.431341
+  ],
+  "NIXI Kolkata (Siliguri, India)": [
+    26.7174761,
+    88.4293421
+  ],
+  "NIXI Mumbai (Ahmedabad, India)": [
+    23.074645,
+    72.525576
+  ],
+  "NIXI Mumbai (Cochin, India)": [
+    10.0107089,
+    76.3584402
+  ],
+  "NIXI Mumbai (Mumbai, India)": [
+    19.063303,
+    72.99875
+  ],
+  "NIXI Mumbai (Raipur, India)": [
+    21.225554,
+    81.656264
+  ],
+  "NIXI Mumbai (Rajkot, India)": [
+    22.293421,
+    70.790579
+  ],
+  "NIXI Mumbai (Thiruvananthapuram, India)": [
+    8.498169,
+    76.948057
+  ],
+  "NIXI Mumbai (Vadodara, India)": [
+    22.31034,
+    73.173267
+  ],
+  "NIXI Mumbai (Visakhapatnam, India)": [
+    17.715639,
+    83.302391
+  ],
+  "NIXVAL-ix (Valencia, Spain)": [
+    39.51971026202094,
+    -0.4671618020367409
+  ],
+  "NL-ix Amsterdam (Amsterdam, Netherlands)": [
+    52.2803455,
+    4.7537924
+  ],
+  "NL-ix Amsterdam (Utrecht, Netherlands)": [
+    52.0860274,
+    5.0701753
+  ],
+  "NL-ix Antwerp (Antwerp, Belgium)": [
+    51.3317099339518,
+    4.286722014842912
+  ],
+  "NL-ix Arnhem (Arnhem, Netherlands)": [
+    51.987536,
+    5.932303
+  ],
+  "NL-ix Arnhem (Ede, Netherlands)": [
+    52.0276117,
+    5.6242624
+  ],
+  "NL-ix Arnhem (Enschede, Netherlands)": [
+    52.24416,
+    6.767379
+  ],
+  "NL-ix Berlin (Berlin, Germany)": [
+    52.5384787,
+    13.237136
+  ],
+  "NL-ix Brussels (Brussels, Belgium)": [
+    50.8710692,
+    4.4741265
+  ],
+  "NL-ix Copenhagen (Copenhagen, Denmark)": [
+    55.7284884,
+    12.3761805
+  ],
+  "NL-ix Dublin (Dublin, Ireland)": [
+    53.334251,
+    -6.365538
+  ],
+  "NL-ix D\u0102\u013dsseldorf (D\u0102\u013dsseldorf, Germany)": [
+    51.188,
+    6.86608
+  ],
+  "NL-ix Eindhoven (Bergen op Zoom, Netherlands)": [
+    51.587535,
+    4.305055
+  ],
+  "NL-ix Eindhoven (Breda, Netherlands)": [
+    51.57907,
+    4.929194
+  ],
+  "NL-ix Eindhoven (Eindhoven, Netherlands)": [
+    51.4456014,
+    5.4920822
+  ],
+  "NL-ix Eindhoven (Hasselt, Belgium)": [
+    50.927895,
+    5.781061
+  ],
+  "NL-ix Eindhoven (Sittard, Netherlands)": [
+    50.995867,
+    5.845417
+  ],
+  "NL-ix Eindhoven (s-Hertogenbosch, Netherlands)": [
+    51.697423,
+    5.038839
+  ],
+  "NL-ix Frankfurt (Frankfurt, Germany)": [
+    50.1197497,
+    8.7362834
+  ],
+  "NL-ix Groningen (Groningen, Netherlands)": [
+    53.246048,
+    6.52852
+  ],
+  "NL-ix Groningen (Zwolle, Netherlands)": [
+    52.4886777,
+    6.1425145
+  ],
+  "NL-ix London (London, United Kingdom)": [
+    51.52926470432782,
+    -0.273435115814209
+  ],
+  "NL-ix Luxembourg (Luxembourg, Luxembourg)": [
+    49.5048055,
+    6.112374
+  ],
+  "NL-ix Marseille (Marseille, France)": [
+    43.33916,
+    5.346433
+  ],
+  "NL-ix Paris (Paris, France)": [
+    48.774881,
+    2.380689
+  ],
+  "NL-ix Rotterdam (Rotterdam, Netherlands)": [
+    51.9232397,
+    4.4334197
+  ],
+  "NL-ix Rotterdam (The Hague, Netherlands)": [
+    51.986849,
+    4.377741
+  ],
+  "NMBINX (Gqeberha, South Africa)": [
+    -33.9508,
+    25.574114
+  ],
+  "NNENIX (Portland, ME, United States)": [
+    43.658074,
+    -70.29982
+  ],
+  "NOORD-IX (Amsterdam, Netherlands)": [
+    52.3544486,
+    4.954004
+  ],
+  "NOORD-IX (Ede, Netherlands)": [
+    52.0276117,
+    5.6242624
+  ],
+  "NOORD-IX (Leeuwarden, Netherlands)": [
+    53.20491042784397,
+    5.765569187275169
+  ],
+  "NPIX (Kathmandu, Nepal)": [
+    27.702,
+    85.317497
+  ],
+  "NRIX (Taipei, Taiwan)": [
+    25.074253,
+    121.576896
+  ],
+  "NSW-IX (Sydney, NSW, Australia)": [
+    -33.92139,
+    151.188205
+  ],
+  "NWAX (Portland, OR, United States)": [
+    45.475682,
+    -122.776183
+  ],
+  "NYIIX LA (Los Angeles, CA, United States)": [
+    34.048302682,
+    -118.256306024
+  ],
+  "NYIIX NY (New York, NY, United States)": [
+    40.74307,
+    -74.00753
+  ],
+  "NYIIX Philadelphia (Philadelphia, PA, United States)": [
+    39.959793,
+    -75.161931
+  ],
+  "NaMeX (Rome, Italy)": [
+    41.807603,
+    12.336602
+  ],
+  "NaMeX Bari (Bari, Italy)": [
+    41.1081001,
+    16.803474
+  ],
+  "NaMeX Napoli (Naples, Italy)": [
+    40.832148,
+    14.2451415
+  ],
+  "NaissIX (Ni\u0139\u02c7, Serbia)": [
+    43.3314121,
+    21.8900052
+  ],
+  "NetIX (Amsterdam, Netherlands)": [
+    52.356612,
+    4.958032
+  ],
+  "NetIX (Athens, Greece)": [
+    38.03995647347717,
+    23.803082694043606
+  ],
+  "NetIX (Belgrade, Serbia)": [
+    44.811291,
+    20.398723
+  ],
+  "NetIX (Bucharest, Romania)": [
+    44.481675,
+    26.120647
+  ],
+  "NetIX (Burgas, Bulgaria)": [
+    42.49153,
+    27.471785
+  ],
+  "NetIX (Fortaleza, Brazil)": [
+    -3.8306835,
+    -38.6137763
+  ],
+  "NetIX (Frankfurt, Germany)": [
+    50.11893,
+    8.73518
+  ],
+  "NetIX (Istanbul, Turkey)": [
+    40.993684,
+    28.829536
+  ],
+  "NetIX (London, United Kingdom)": [
+    51.511549,
+    -0.0029163
+  ],
+  "NetIX (Madrid, Spain)": [
+    40.4391411,
+    -3.6214827
+  ],
+  "NetIX (Marseille, France)": [
+    43.33916,
+    5.346433
+  ],
+  "NetIX (Miami, FL, United States)": [
+    25.78262624,
+    -80.193069234
+  ],
+  "NetIX (Milan, Italy)": [
+    45.4789921,
+    9.1026941
+  ],
+  "NetIX (Moscow, Russia)": [
+    55.6525619,
+    37.5291024
+  ],
+  "NetIX (New York, NY, United States)": [
+    40.717664,
+    -74.008333
+  ],
+  "NetIX (Paris, France)": [
+    48.8560137,
+    2.3834406
+  ],
+  "NetIX (Pazardjik, Bulgaria)": [
+    42.255531,
+    24.315081
+  ],
+  "NetIX (Pleven, Bulgaria)": [
+    43.407265,
+    24.621122
+  ],
+  "NetIX (Prague, Czech Republic)": [
+    50.0601656,
+    14.4829317
+  ],
+  "NetIX (Razgrad, Bulgaria)": [
+    43.527744,
+    26.524371
+  ],
+  "NetIX (Rome, Italy)": [
+    41.8988786,
+    12.5114061
+  ],
+  "NetIX (Ruse, Bulgaria)": [
+    43.852127,
+    25.951498
+  ],
+  "NetIX (Santana de Parnaiba, Brazil)": [
+    -23.4661188,
+    -46.8653823
+  ],
+  "NetIX (Singapore, Singapore)": [
+    1.29513,
+    103.790313
+  ],
+  "NetIX (Sofia, Bulgaria)": [
+    42.625932,
+    23.376693
+  ],
+  "NetIX (Stockholm, Sweden)": [
+    59.4210972,
+    17.912222
+  ],
+  "NetIX (S\u0102\u0141o Paulo, Brazil)": [
+    -23.546145,
+    -46.635633
+  ],
+  "NetIX (Thessaloniki, Greece)": [
+    40.6212439,
+    22.8107386
+  ],
+  "NetIX (Vienna, Austria)": [
+    48.2697621,
+    16.4102279
+  ],
+  "NetIX (Warsaw, Poland)": [
+    52.154805,
+    21.002255
+  ],
+  "NetIX (Zagreb, Croatia)": [
+    45.8028915,
+    15.9433892
+  ],
+  "NetherLight (Amsterdam, Netherlands)": [
+    52.356671,
+    4.952501
+  ],
+  "Netnod Copenhagen (Copenhagen, Denmark)": [
+    55.7284884,
+    12.3761805
+  ],
+  "Netnod Copenhagen (Malm\u0102\u00b6, Sweden)": [
+    55.6068184,
+    12.998449
+  ],
+  "Netnod Helsinki (Helsinki, Finland)": [
+    60.21607305605382,
+    24.87780749573754
+  ],
+  "Netnod-GBG (Gothenburg, Sweden)": [
+    57.7299685,
+    12.0029755
+  ],
+  "Netnod-LUL (Lule\u0102\u0104, Sweden)": [
+    65.58389,
+    22.152275
+  ],
+  "Netnod-STH (Stockholm, Sweden)": [
+    59.290656,
+    18.017372
+  ],
+  "Netnod-SVL-GVL (G\u0102\u00a4vle, Sweden)": [
+    60.676748,
+    17.1412851
+  ],
+  "Netnod-SVL-GVL (Sundsvall, Sweden)": [
+    62.3946873,
+    17.3390818
+  ],
+  "Ninja-IX Auburn (Auburn, AL, United States)": [
+    32.6010583,
+    -85.5163091
+  ],
+  "Ninja-IX Bahamas (Nassau, Bahamas)": [
+    25.050177831554297,
+    -77.40377874830297
+  ],
+  "Ninja-IX Charlotte (Charlotte, NC, United States)": [
+    35.135401,
+    -80.936952
+  ],
+  "Ninja-IX Charlotte (Raleigh, NC, United States)": [
+    35.849914,
+    -78.828858
+  ],
+  "Ninja-IX Dallas (Dallas, TX, United States)": [
+    32.895882,
+    -96.981935
+  ],
+  "Ninja-IX Houston (Houston, TX, United States)": [
+    29.793357,
+    -95.746865
+  ],
+  "Ninja-IX Las Vegas (Las Vegas, NV, United States)": [
+    36.06519,
+    -115.130697
+  ],
+  "Ninja-IX Norfolk (Virginia Beach, VA, United States)": [
+    36.860928,
+    -76.23611
+  ],
+  "Ninja-IX Phoenix (Phoenix, AZ, United States)": [
+    33.454411,
+    -111.976435
+  ],
+  "Ninja-IX Raleigh (Raleigh, NC, United States)": [
+    35.849914,
+    -78.828858
+  ],
+  "Ninja-IX Richmond (Richmond, VA, United States)": [
+    37.488073,
+    -77.2441769
+  ],
+  "Ninja-IX Sacramento (Sacramento, CA, United States)": [
+    38.646782,
+    -121.487569
+  ],
+  "NorrNod (Ume\u0102\u0104, Sweden)": [
+    63.834766,
+    20.264636
+  ],
+  "NorthIX (Copenhagen, Denmark)": [
+    55.662103,
+    12.30135
+  ],
+  "OCIX (Saint Maarten, Sint Maarten)": [
+    18.024872,
+    -63.040284
+  ],
+  "ODIX Omadata (Surabaya, Indonesia)": [
+    -7.272863,
+    112.74313
+  ],
+  "OGIX (Ottawa, ON, Canada)": [
+    45.339925,
+    -75.9112341
+  ],
+  "ONIX (Toronto, ON, Canada)": [
+    43.6509276,
+    -79.3617763
+  ],
+  "OhioIX (Akron, OH, United States)": [
+    41.057189180600716,
+    -81.52217217335641
+  ],
+  "OhioIX (Cleveland, OH, United States)": [
+    41.505785,
+    -81.684759
+  ],
+  "OhioIX (Columbus, OH, United States)": [
+    40.116569,
+    -83.002043
+  ],
+  "OmahaIX (Omaha, NE, United States)": [
+    41.257446,
+    -95.940331
+  ],
+  "OpenIXP (Jakarta, Indonesia)": [
+    -6.254091,
+    106.835076
+  ],
+  "PCIX (Milan, Italy)": [
+    45.4789921,
+    9.1026941
+  ],
+  "PCIX (Padua, Italy)": [
+    45.3887355,
+    11.9273159
+  ],
+  "PCIX (Piacenza, Italy)": [
+    45.050143,
+    9.738243
+  ],
+  "PCIX (Trieste, Italy)": [
+    45.6888504,
+    13.7948081
+  ],
+  "PEIXP (Charlottetown, PE, Canada)": [
+    46.2370585,
+    -63.1302736
+  ],
+  "PEIXP (Halifax, NS, Canada)": [
+    44.655166,
+    -63.626648
+  ],
+  "PEIXP (Moncton, NB, Canada)": [
+    46.0843447,
+    -64.8138275
+  ],
+  "PEIXP (Saint John, NB, Canada)": [
+    45.2720015,
+    -66.0644511
+  ],
+  "PHOpenIX (Cebu, Philippines)": [
+    10.2919023,
+    123.9029396
+  ],
+  "PHOpenIX (Manila, Philippines)": [
+    14.5698244,
+    121.0681958
+  ],
+  "PIE (Karachi, Pakistan)": [
+    24.851600176532106,
+    67.01405985339332
+  ],
+  "PIRIX (St. Petersburg, Russia)": [
+    59.8868051,
+    30.3297361
+  ],
+  "PIT Chile (Concepci\u0102\u0142n, Chile)": [
+    -36.815773,
+    -73.048431
+  ],
+  "PIT Chile (Melipilla, Chile)": [
+    -33.69201440595504,
+    -71.21530340846668
+  ],
+  "PIT Chile (Santiago, Chile)": [
+    -33.35619378733583,
+    -70.69975806098242
+  ],
+  "PIT Chile (Temuco, Chile)": [
+    -38.74276,
+    -72.596054
+  ],
+  "PIT Chile (Valpara\u0102\u00adso, Chile)": [
+    -33.12214717768524,
+    -71.57639563672717
+  ],
+  "PIT Colombia Baranquilla (Barranquilla, Colombia)": [
+    11.022045,
+    -74.926933
+  ],
+  "PIT Colombia Bogot\u0102\u02c7 (Bogot\u0102\u02c7, Colombia)": [
+    4.9638844,
+    -73.9637211
+  ],
+  "PIT Colombia Bucaramanga (Bucaramanga, Colombia)": [
+    7.0837035,
+    -73.1196422
+  ],
+  "PIT Colombia Cali (Cali, Colombia)": [
+    3.43863,
+    -76.517014
+  ],
+  "PIT Colombia Medellin (Medellin, Colombia)": [
+    6.2162485,
+    -75.5735
+  ],
+  "PIT MX (Santiago de Quer\u0102\u00a9taro, Mexico)": [
+    20.5659518,
+    -100.2567673
+  ],
+  "PITBOLIVIA (La Paz, Bolivia)": [
+    -16.543132,
+    -68.085475
+  ],
+  "PITER-IX (Amsterdam, Netherlands)": [
+    52.356359,
+    4.950787
+  ],
+  "PITER-IX (Frankfurt, Germany)": [
+    50.1282537731062,
+    8.601467683791077
+  ],
+  "PITER-IX (Helsinki, Finland)": [
+    60.3074767,
+    24.8632905
+  ],
+  "PITER-IX (Moscow, Russia)": [
+    55.7969597,
+    37.6160718
+  ],
+  "PITER-IX (St. Petersburg, Russia)": [
+    59.887231,
+    30.3269113
+  ],
+  "PITER-IX (Tallinn, Estonia)": [
+    59.45716,
+    24.693153
+  ],
+  "PIX (Penang, Malaysia)": [
+    5.3256383,
+    100.284138
+  ],
+  "PIX (Ramallah, Palestinian Territory)": [
+    31.902599,
+    35.195499
+  ],
+  "PKIX (Islamabad, Pakistan)": [
+    33.6731732,
+    73.0521789
+  ],
+  "PKIX (Karachi, Pakistan)": [
+    24.889677,
+    67.028539
+  ],
+  "PKIX (Lahore, Pakistan)": [
+    31.4756429,
+    74.3399173
+  ],
+  "POZIX (Poznan, Poland)": [
+    52.4047628888002,
+    16.921664271349687
+  ],
+  "POZIX (Warsaw, Poland)": [
+    52.2276614,
+    21.00425
+  ],
+  "Pacific Wave (Albuquerque, NM, United States)": [
+    35.088878,
+    -106.65262
+  ],
+  "Pacific Wave (Denver, CO, United States)": [
+    39.745648363,
+    -104.980035757
+  ],
+  "Pacific Wave (El Paso, TX, United States)": [
+    31.755853,
+    -106.493388
+  ],
+  "Pacific Wave (Los Angeles, CA, United States)": [
+    34.04889,
+    -118.259518
+  ],
+  "Pacific Wave (San Francisco, CA, United States)": [
+    37.4456911,
+    -122.1610689
+  ],
+  "Pacific Wave (Seattle, WA, United States)": [
+    47.6143473,
+    -122.338515
+  ],
+  "Pacific Wave (Tokyo, Japan)": [
+    35.6221001,
+    139.749984
+  ],
+  "PaducahIX (Paducah, KY, United States)": [
+    37.0940238,
+    -88.6362984
+  ],
+  "Peering.cz (Bratislava, Slovakia)": [
+    48.1514337,
+    17.1128058
+  ],
+  "Peering.cz (Frankfurt, Germany)": [
+    50.1282537731062,
+    8.601467683791077
+  ],
+  "Peering.cz (Prague, Czech Republic)": [
+    50.0820185,
+    14.5333505
+  ],
+  "Peering.cz (Vienna, Austria)": [
+    48.2697621,
+    16.4102279
+  ],
+  "Peru IX (Arequipa, Peru)": [
+    -16.42005156188078,
+    -71.54439175446385
+  ],
+  "Peru IX (Chiclayo, Peru)": [
+    -6.77304,
+    -79.828217
+  ],
+  "Peru IX (Cusco, Peru)": [
+    -13.526045541030157,
+    -71.96745173731036
+  ],
+  "Peru IX (Huancayo, Peru)": [
+    -12.05207,
+    -75.216873
+  ],
+  "Peru IX (Lima, Peru)": [
+    -12.089054,
+    -76.973144
+  ],
+  "Peru IX (Piura, Peru)": [
+    -5.19025,
+    -80.62735
+  ],
+  "Peru IX (Tacna, Peru)": [
+    -18.00738,
+    -70.250183
+  ],
+  "Peru IX (Trujillo, Peru)": [
+    -8.132415744794075,
+    -79.04525807860462
+  ],
+  "PipeIX Adelaide (Adelaide, SA, Australia)": [
+    -34.908753,
+    138.530314
+  ],
+  "PipeIX Brisbane (Brisbane, QLD, Australia)": [
+    -27.4665545,
+    153.0293111
+  ],
+  "PipeIX Canberra (Canberra, ACT, Australia)": [
+    -35.2516189,
+    149.133846
+  ],
+  "PipeIX Hobart (Hobart, TAS, Australia)": [
+    -42.882027,
+    147.3288239
+  ],
+  "PipeIX Melbourne (Melbourne, VIC, Australia)": [
+    -37.8191771,
+    144.9567686
+  ],
+  "PipeIX Sydney (Sydney, NSW, Australia)": [
+    -33.92139,
+    151.188205
+  ],
+  "Port IX (San Francisco, CA, United States)": [
+    37.4718829,
+    -121.9192359
+  ],
+  "PyramIX (Amsterdam, Netherlands)": [
+    52.356359,
+    4.950787
+  ],
+  "PyramIX (Cairo, Egypt)": [
+    30.0444196,
+    31.2357116
+  ],
+  "PyramIX (Frankfurt, Germany)": [
+    50.12007,
+    8.73561
+  ],
+  "QCIX (Davenport, IA, United States)": [
+    41.54824590614595,
+    -90.62126020391672
+  ],
+  "QCIX (Des Moines, IA, United States)": [
+    41.58805206545555,
+    -93.63111730185211
+  ],
+  "QCIX (Minneapolis, MN, United States)": [
+    44.9723813,
+    -93.2556691
+  ],
+  "QCIX (Waterloo, IA, United States)": [
+    42.48894955411267,
+    -92.33055822902175
+  ],
+  "QIX (Doha, Qatar)": [
+    25.5510651,
+    51.4349973
+  ],
+  "QIX (Montr\u0102\u00a9al, QC, Canada)": [
+    45.4894335,
+    -73.7468608
+  ],
+  "QLD-IX (Brisbane, QLD, Australia)": [
+    -27.5797369,
+    153.0999045
+  ],
+  "RB-IX (Ufa, Russia)": [
+    54.738762,
+    55.972055
+  ],
+  "RED-IX (Abakan, Russia)": [
+    53.7282548,
+    91.4407433
+  ],
+  "RED-IX (Achinsk, Russia)": [
+    56.2692576,
+    90.4932289
+  ],
+  "RED-IX (Irkutsk, Russia)": [
+    52.286974,
+    104.305018
+  ],
+  "RED-IX (Krasnoyarsk, Russia)": [
+    56.010379,
+    92.868668
+  ],
+  "RED-IX (Novosibirsk, Russia)": [
+    55.0266208,
+    82.9261804
+  ],
+  "RED-IX (Zheleznogorsk, Russia)": [
+    52.341161,
+    35.348482
+  ],
+  "REDIX (Chennai, India)": [
+    13.0607949,
+    80.1337254
+  ],
+  "REMIX (Reykjavik, Iceland)": [
+    64.048364,
+    -21.9945533
+  ],
+  "REUNIX (Saint Denis, R\u0102\u00a9union)": [
+    -20.902287,
+    55.484496
+  ],
+  "RINEX (Kigali, Rwanda)": [
+    -1.94445,
+    30.089676
+  ],
+  "RIX (Nago, Japan)": [
+    26.517971,
+    128.020604
+  ],
+  "RIX (Naha, Japan)": [
+    26.270389,
+    127.718078
+  ],
+  "RIX (Reykjavik, Iceland)": [
+    64.145138,
+    -21.9095487
+  ],
+  "ROPN-IX (Bucharest, Romania)": [
+    44.49015697412979,
+    26.119034906579238
+  ],
+  "R_iX (Bergen op Zoom, Netherlands)": [
+    51.587535,
+    4.305055
+  ],
+  "R_iX (Breda, Netherlands)": [
+    51.57751786469201,
+    4.937235300089797
+  ],
+  "R_iX (Rotterdam, Netherlands)": [
+    51.9309063,
+    4.4146597
+  ],
+  "R_iX (The Hague, Netherlands)": [
+    51.986849,
+    4.377741
+  ],
+  "Remki Internet Exchange (RIX) (Guntur, India)": [
+    16.300201907949717,
+    80.38651946988585
+  ],
+  "Rheintal IX (Bregenz, Austria)": [
+    47.4887052,
+    9.7381132
+  ],
+  "Rheintal IX (Eschen, Liechtenstein)": [
+    47.209927,
+    9.529105
+  ],
+  "Rheintal IX (Feldkirch, Austria)": [
+    47.270109,
+    9.605968
+  ],
+  "Rheintal IX (Frauenfeld, Switzerland)": [
+    47.56229805335477,
+    8.887679269153914
+  ],
+  "Rheintal IX (Konstanz, Germany)": [
+    47.67631610834193,
+    9.162541019489662
+  ],
+  "Rheintal IX (St. Gallen, Switzerland)": [
+    47.3574348,
+    9.449864
+  ],
+  "Riyadh IXP (Riyadh, Saudi Arabia)": [
+    24.900843,
+    46.806761
+  ],
+  "RoNIX (Bacau, Romania)": [
+    46.5656595,
+    26.9077824
+  ],
+  "RoNIX (Brasov, Romania)": [
+    45.650326,
+    25.6068256
+  ],
+  "RoNIX (Bucharest, Romania)": [
+    44.477814,
+    26.115789
+  ],
+  "RoNIX (Cluj Napoca, Romania)": [
+    46.771212,
+    23.59349
+  ],
+  "RoNIX (Constanta, Romania)": [
+    44.178997,
+    28.6514013
+  ],
+  "RoNIX (Drobeta-Turnu Severin, Romania)": [
+    44.6439432,
+    22.6680969
+  ],
+  "RoNIX (Frankfurt, Germany)": [
+    50.1282537731062,
+    8.601467683791077
+  ],
+  "RoNIX (Iasi, Romania)": [
+    47.1722321,
+    27.5575683
+  ],
+  "RoNIX (Suceava, Romania)": [
+    47.6450398,
+    26.2571182
+  ],
+  "RoNIX (Timisoara, Romania)": [
+    45.7604932,
+    21.2140904
+  ],
+  "Ruhr-CIX (Essen, Germany)": [
+    51.5042131,
+    7.5282287
+  ],
+  "SA-IX (Adelaide, SA, Australia)": [
+    -34.9684576,
+    138.5732163
+  ],
+  "SAIX (Johannesburg, South Africa)": [
+    -26.204944,
+    28.040035
+  ],
+  "SAIX (Riyadh, Saudi Arabia)": [
+    24.71805,
+    46.644202
+  ],
+  "SAIX (Salzburg, Austria)": [
+    47.7051252,
+    13.0795128
+  ],
+  "SAIX (Thuwal, Saudi Arabia)": [
+    22.318715,
+    39.117941
+  ],
+  "SAT-IX (San Antonio, TX, United States)": [
+    29.429369,
+    -98.4889797
+  ],
+  "SBG-IX (Strasbourg, France)": [
+    48.52068387992138,
+    7.736767108003022
+  ],
+  "SBH-IX (Pointe-a-Pitre, Saint Barth\u0102\u00a9lemy)": [
+    17.907106,
+    -62.823252
+  ],
+  "SBIX (Baden, Switzerland)": [
+    47.447427,
+    8.211379
+  ],
+  "SBIX (D\u0102\u013dsseldorf, Germany)": [
+    51.26721,
+    6.8174
+  ],
+  "SBIX (Frankfurt, Germany)": [
+    50.1399,
+    8.74346
+  ],
+  "SBIX (Lelystad, Netherlands)": [
+    52.5436556,
+    5.7048204
+  ],
+  "SBIX (London, United Kingdom)": [
+    51.5233434,
+    -0.1006786
+  ],
+  "SBIX (San Francisco, CA, United States)": [
+    37.4718829,
+    -121.9192359
+  ],
+  "SCAX (Brookings, SD, United States)": [
+    42.0512169,
+    -124.2834817
+  ],
+  "SEECIX (Athens, Greece)": [
+    37.8710369,
+    23.8707349
+  ],
+  "SFINX (Paris, France)": [
+    48.9053127,
+    2.3675859
+  ],
+  "SFMIX (San Francisco, CA, United States)": [
+    37.4718829,
+    -121.9192359
+  ],
+  "SGIX (Singapore, Singapore)": [
+    1.3539721,
+    103.8645963
+  ],
+  "SH-IX (Fujairah, United Arab Emirates)": [
+    25.130328,
+    56.336567
+  ],
+  "SIOUIX (Sioux City, IA, United States)": [
+    42.49815964372719,
+    -96.40391861686429
+  ],
+  "SIX (Bratislava, Slovakia)": [
+    48.1514337,
+    17.1128058
+  ],
+  "SIX (Jakarta, Indonesia)": [
+    -6.613948894579574,
+    106.8143606896303
+  ],
+  "SIX (Seattle, WA, United States)": [
+    47.495471,
+    -122.2910526
+  ],
+  "SIX (Stavanger, Norway)": [
+    59.069854,
+    5.760676
+  ],
+  "SIX.SI (Ljubljana, Slovenia)": [
+    46.050301406869586,
+    14.460175037384033
+  ],
+  "SIXP (Serekunda, Gambia)": [
+    13.459619,
+    -16.685641
+  ],
+  "SJIX (Saint John, NB, Canada)": [
+    45.2720015,
+    -66.0644511
+  ],
+  "SKNIX (Basseterre, Saint Kitts and Nevis)": [
+    17.2945879,
+    -62.71367
+  ],
+  "SLIX (Salt Lake City, UT, United States)": [
+    40.7609004,
+    -111.8910443
+  ],
+  "SMILE (Riga, Latvia)": [
+    56.923961,
+    24.137042
+  ],
+  "SNAP (Atlanta, GA, United States)": [
+    33.755807,
+    -84.391066
+  ],
+  "SNS-IX (Tashkent, Uzbekistan)": [
+    41.3026667,
+    69.2716986
+  ],
+  "SOAX (Medford, OR, United States)": [
+    42.332459,
+    -122.880427
+  ],
+  "SOAX (Redding, CA, United States)": [
+    40.61108,
+    -122.38214
+  ],
+  "SOE (Singapore, Singapore)": [
+    1.336752,
+    103.893589
+  ],
+  "SOIXP (Mogadishu, Somalia)": [
+    2.0591993,
+    45.2366243
+  ],
+  "SOLIX (Stockholm, Sweden)": [
+    59.290656,
+    18.017372
+  ],
+  "SONIX Gothenburg (Gothenburg, Sweden)": [
+    57.7299685,
+    12.0029755
+  ],
+  "SONIX Stockholm (Stockholm, Sweden)": [
+    59.40917267519227,
+    17.949200397429
+  ],
+  "SOX (Belgrade, Serbia)": [
+    44.8021227,
+    20.4091396
+  ],
+  "SOX (Kragujevac, Serbia)": [
+    44.0197475,
+    20.9106071
+  ],
+  "SOX (Ljubljana, Slovenia)": [
+    46.0564755,
+    14.504476
+  ],
+  "SOX (Ni\u0139\u02c7, Serbia)": [
+    43.3216482,
+    21.9130196
+  ],
+  "SOX (Novi Sad, Serbia)": [
+    45.2453485,
+    19.8239303
+  ],
+  "SOX (Singapore, Singapore)": [
+    1.2933366,
+    103.7776607
+  ],
+  "SOX (Sofia, Bulgaria)": [
+    42.65635029382505,
+    23.369256066808084
+  ],
+  "SOX (Vienna, Austria)": [
+    48.2697621,
+    16.4102279
+  ],
+  "SOX (Vr\u0139\u02c7ac, Serbia)": [
+    45.1041204,
+    21.2770089
+  ],
+  "SP-iXP Mumbai (Mumbai, India)": [
+    19.137142,
+    73.017292
+  ],
+  "SPRINGIX (Springfield, MO, United States)": [
+    37.2316168,
+    -93.2144969
+  ],
+  "SR-IX (Bishkek, Kyrgyzstan)": [
+    42.8747175,
+    74.6045082
+  ],
+  "STACIX (Frankfurt, Germany)": [
+    50.12681436455641,
+    8.581669382915413
+  ],
+  "STACIX (Nuremberg, Germany)": [
+    49.44954404186705,
+    11.01415192875746
+  ],
+  "STHIX (Copenhagen, Denmark)": [
+    55.661921,
+    12.377342
+  ],
+  "STHIX (Gothenburg, Sweden)": [
+    57.7299685,
+    12.0029755
+  ],
+  "STHIX (Malm\u0102\u00b6, Sweden)": [
+    55.6068184,
+    12.998449
+  ],
+  "STHIX (Stockholm, Sweden)": [
+    59.290656,
+    18.017372
+  ],
+  "STHIX (Sundsvall, Sweden)": [
+    62.3946873,
+    17.3390818
+  ],
+  "STHIX (Ume\u0102\u0104, Sweden)": [
+    63.83185311188903,
+    20.26324283506619
+  ],
+  "STIX (Bolzano, Italy)": [
+    46.4827045,
+    11.3289882
+  ],
+  "STLIX (St. Louis, MO, United States)": [
+    38.625471,
+    -90.195222
+  ],
+  "STUIX (Taipei, Taiwan)": [
+    25.074253,
+    121.576896
+  ],
+  "SUPRnet (Kanab, UT, United States)": [
+    37.054016,
+    -112.525885
+  ],
+  "SUPRnet (Salt Lake City, UT, United States)": [
+    40.536329,
+    -111.895846
+  ],
+  "SUPRnet (St. George, UT, United States)": [
+    37.112642,
+    -113.565326
+  ],
+  "SUPRnet (Washington, DC, United States)": [
+    38.956617,
+    -77.362257
+  ],
+  "SUR-IX (Paramaribo, Suriname)": [
+    5.8374028,
+    -55.2035795
+  ],
+  "SXMIX (Gustavia, Saint Barth\u0102\u00a9lemy)": [
+    17.897736,
+    -62.848837
+  ],
+  "SXMIX (Saint Martin, Saint Martin)": [
+    18.076033,
+    -63.0813048
+  ],
+  "Sea-IX (Krasnodar, Russia)": [
+    45.038327,
+    38.974826
+  ],
+  "Sea-IX (Rostov-on-Don, Russia)": [
+    47.226056,
+    39.75794
+  ],
+  "Securebit IX (D\u0102\u013dsseldorf, Germany)": [
+    51.26721,
+    6.8174
+  ],
+  "Sejong Neutral-IX (Busan, South Korea)": [
+    35.17512066848208,
+    129.12742719773266
+  ],
+  "Sejong Neutral-IX (Daegu, South Korea)": [
+    35.868129541944114,
+    128.62877681309445
+  ],
+  "Sejong Neutral-IX (Daejeon, South Korea)": [
+    36.41658131861165,
+    127.40768139793599
+  ],
+  "Sejong Neutral-IX (Gwangju, South Korea)": [
+    35.21361015301824,
+    126.84563639588357
+  ],
+  "Sejong Neutral-IX (Seoul, South Korea)": [
+    37.3375607,
+    127.1046037
+  ],
+  "SpaceIX (Moscow, Russia)": [
+    55.75695,
+    37.614975
+  ],
+  "Speed-IX (Amsterdam, Netherlands)": [
+    52.356359,
+    4.950787
+  ],
+  "Speed-IX (Apeldoorn, Netherlands)": [
+    52.24703,
+    6.001603
+  ],
+  "Speed-IX (Lelystad, Netherlands)": [
+    52.5436556,
+    5.7048204
+  ],
+  "Speed-IX (Meppel, Netherlands)": [
+    52.7172492,
+    6.1965309
+  ],
+  "Speed-IX (The Hague, Netherlands)": [
+    51.986849,
+    4.377741
+  ],
+  "SpokaneIX (Coeur d'Alene, ID, United States)": [
+    47.70047276000535,
+    -116.79447082399673
+  ],
+  "SpokaneIX (Spokane, WA, United States)": [
+    47.6581218,
+    -117.4216457
+  ],
+  "StarLight (Chicago, IL, United States)": [
+    41.88415,
+    -87.632409
+  ],
+  "Stuttgart-IX (Stuttgart, Germany)": [
+    48.708219,
+    9.171486
+  ],
+  "SwissIX (Baden, Switzerland)": [
+    47.447427,
+    8.211379
+  ],
+  "SwissIX (Basel, Switzerland)": [
+    47.54676092316649,
+    7.583635911475335
+  ],
+  "SwissIX (Bern, Switzerland)": [
+    46.959371,
+    7.43474
+  ],
+  "SwissIX (Lugano, Switzerland)": [
+    45.932746248874935,
+    8.974819097953674
+  ],
+  "SwissIX (Z\u0102\u013drich, Switzerland)": [
+    47.431926,
+    8.559344
+  ],
+  "T-CIX (Sofia, Bulgaria)": [
+    42.7026051,
+    23.3059837
+  ],
+  "TAS-IX (Hobart, TAS, Australia)": [
+    -42.8841721,
+    147.3189883
+  ],
+  "TAS-IX (Tashkent, Uzbekistan)": [
+    41.3219863,
+    69.2500238
+  ],
+  "TGIX (Lome, Togo)": [
+    6.128306,
+    1.212098
+  ],
+  "TIROL-IX (Innsbruck, Austria)": [
+    47.265733,
+    11.435815
+  ],
+  "TIX (Dar Es Salaam, Tanzania)": [
+    -6.813321,
+    39.288632
+  ],
+  "TIX (Florence, Italy)": [
+    43.78237,
+    11.254995
+  ],
+  "TIX (Troms\u0102\u00b8, Norway)": [
+    69.649205,
+    18.955324
+  ],
+  "TIX (Zanzibar, Tanzania)": [
+    -6.1809,
+    39.2052
+  ],
+  "TN-IX (Novokuznetsk, Russia)": [
+    53.76972516638799,
+    87.11646362508436
+  ],
+  "TN-IX (Novosibirsk, Russia)": [
+    55.033143406266056,
+    82.92478641533326
+  ],
+  "TOP-IX (Milan, Italy)": [
+    45.4484752,
+    9.1464598
+  ],
+  "TOP-IX (Turin, Italy)": [
+    45.0881187,
+    7.6699947
+  ],
+  "TORIX (Toronto, ON, Canada)": [
+    43.6419945,
+    -79.4121273
+  ],
+  "TOUIX (Toulouse, France)": [
+    43.618172227590215,
+    1.420228438289405
+  ],
+  "TPIX (Katowice, Poland)": [
+    50.2535299,
+    19.0024448
+  ],
+  "TPIX (Taipei, Taiwan)": [
+    25.073467,
+    121.577519
+  ],
+  "TPIX (Warsaw, Poland)": [
+    52.2276614,
+    21.00425
+  ],
+  "TRDIX (Trondheim, Norway)": [
+    63.430515,
+    10.395053
+  ],
+  "TREX (Tampere, Finland)": [
+    61.497926,
+    23.7755101
+  ],
+  "TRUE-IX (Bangkok, Thailand)": [
+    13.7625809,
+    100.5655766
+  ],
+  "TTIX (Port of Spain, Trinidad and Tobago)": [
+    10.64829,
+    -61.461506
+  ],
+  "TWIX (Kaohsiung City, Taiwan)": [
+    22.6260284,
+    120.2994356
+  ],
+  "TWIX (Taichung, Taiwan)": [
+    24.1473198,
+    120.6442173
+  ],
+  "TWIX (Taipei, Taiwan)": [
+    24.99486,
+    121.45847
+  ],
+  "Tabriz IX (Tabriz, Iran)": [
+    38.080971,
+    46.290112
+  ],
+  "TahoeIX (Reno, NV, United States)": [
+    39.469274,
+    -119.769743
+  ],
+  "Tehran IX (Tehran, Iran)": [
+    35.754266,
+    51.448588
+  ],
+  "Telecom 1 (Batumi, Georgia)": [
+    41.6384262,
+    41.6129284
+  ],
+  "Telecom 1 (Kutaisi, Georgia)": [
+    42.259715,
+    42.67153
+  ],
+  "Thinx Poland (Bialystok, Poland)": [
+    53.129196,
+    23.154811
+  ],
+  "Thinx Poland (Gdansk, Poland)": [
+    54.358364,
+    18.646961
+  ],
+  "Thinx Poland (Katowice, Poland)": [
+    50.2615887,
+    19.0248545
+  ],
+  "Thinx Poland (Koszalin, Poland)": [
+    54.20373867425111,
+    16.197426356030075
+  ],
+  "Thinx Poland (Krak\u0102\u0142w, Poland)": [
+    50.067016984372614,
+    19.94214187121957
+  ],
+  "Thinx Poland (Lodz, Poland)": [
+    51.760432,
+    19.459149
+  ],
+  "Thinx Poland (Lublin, Poland)": [
+    51.245263,
+    22.555848
+  ],
+  "Thinx Poland (Plock, Poland)": [
+    52.534257582187664,
+    19.735057498295618
+  ],
+  "Thinx Poland (Poznan, Poland)": [
+    52.4019026,
+    16.9261883
+  ],
+  "Thinx Poland (Radom, Poland)": [
+    51.40511606379283,
+    21.16952289829653
+  ],
+  "Thinx Poland (Szczecin, Poland)": [
+    53.431993,
+    14.555156
+  ],
+  "Thinx Poland (Warsaw, Poland)": [
+    52.2276614,
+    21.00425
+  ],
+  "Thinx Poland (Wroclaw, Poland)": [
+    51.09464992011649,
+    17.019621755913924
+  ],
+  "Turk-IX (Denizli, Turkey)": [
+    37.73828034292074,
+    29.097384279398234
+  ],
+  "Turk-IX (Istanbul, Turkey)": [
+    41.07963771571669,
+    29.00726661664012
+  ],
+  "TurkIX (Bursa, Turkey)": [
+    40.258739,
+    29.061631
+  ],
+  "TurkIX (Haskovo, Bulgaria)": [
+    41.9306744,
+    25.5429026
+  ],
+  "TurkIX (Istanbul, Turkey)": [
+    40.993582,
+    28.825876
+  ],
+  "TurkIX (Kapitan Andreevo, Bulgaria)": [
+    41.72073,
+    26.317757
+  ],
+  "TurkIX (Sofia, Bulgaria)": [
+    42.6793612,
+    23.3646234
+  ],
+  "UA-IX (Kyiv, Ukraine)": [
+    50.429447,
+    30.546693
+  ],
+  "UAE-IX (Dubai, United Arab Emirates)": [
+    25.0264285,
+    55.1844334
+  ],
+  "UEPG IX (Ponta Grossa, Brazil)": [
+    -25.089498,
+    -50.103436
+  ],
+  "UIXP (Kampala, Uganda)": [
+    0.34714366009767905,
+    32.68970509976607
+  ],
+  "ULN-IX (Ulyanovsk, Russia)": [
+    54.3109185,
+    48.3845371
+  ],
+  "Unmetered.Exchange (Vancouver, BC, Canada)": [
+    49.2846088,
+    -123.1122151
+  ],
+  "VANIX (Vancouver, BC, Canada)": [
+    49.2846088,
+    -123.1122151
+  ],
+  "VIC-IX (Melbourne, VIC, Australia)": [
+    -37.82202,
+    144.9324765
+  ],
+  "VIX (Manila, Philippines)": [
+    14.4617678,
+    121.0243672
+  ],
+  "VIX (Vienna, Austria)": [
+    48.2141511,
+    16.3577839
+  ],
+  "VIX.VU (Port Vila, Vanuatu)": [
+    -17.7289284256559,
+    168.32645306707636
+  ],
+  "VNIX (Danang, Vietnam)": [
+    16.076381197328192,
+    108.23613764271099
+  ],
+  "VNIX (Hanoi, Vietnam)": [
+    21.020187080994422,
+    105.78502690614226
+  ],
+  "VNIX (Ho Chi Minh City, Vietnam)": [
+    10.75365421935391,
+    106.73014340661578
+  ],
+  "VOIXP (Vienna, Austria)": [
+    48.158618,
+    16.338816
+  ],
+  "VSIX (Milan, Italy)": [
+    45.4789921,
+    9.1026941
+  ],
+  "VSIX (Padua, Italy)": [
+    45.4067478,
+    11.876079
+  ],
+  "VoIP IX (Amsterdam, Netherlands)": [
+    52.3544486,
+    4.954004
+  ],
+  "VoIP IX (Brussels, Belgium)": [
+    50.8710692,
+    4.4741265
+  ],
+  "VoIP IX (Frankfurt, Germany)": [
+    49.98603,
+    8.58289
+  ],
+  "VoIP IX (Paris, France)": [
+    48.8560137,
+    2.3834406
+  ],
+  "W-IX (Amsterdam, Netherlands)": [
+    52.356359,
+    4.950787
+  ],
+  "W-IX (Cheboksary, Russia)": [
+    56.1438932899072,
+    47.248753051449754
+  ],
+  "W-IX (Chelyabinsk, Russia)": [
+    55.166062,
+    61.412391
+  ],
+  "W-IX (Ekaterinburg, Russia)": [
+    56.836212,
+    60.619599
+  ],
+  "W-IX (Frankfurt, Germany)": [
+    50.1282537731062,
+    8.601467683791077
+  ],
+  "W-IX (Kazan, Russia)": [
+    55.7954467,
+    48.7436667
+  ],
+  "W-IX (Moscow, Russia)": [
+    55.806171,
+    37.5473457
+  ],
+  "W-IX (Novosibirsk, Russia)": [
+    55.0266208,
+    82.9261804
+  ],
+  "W-IX (Omsk, Russia)": [
+    54.992316,
+    73.469609
+  ],
+  "W-IX (Perm, Russia)": [
+    57.990343,
+    56.214421
+  ],
+  "W-IX (Samara, Russia)": [
+    53.199696,
+    50.144546
+  ],
+  "W-IX (St. Petersburg, Russia)": [
+    59.9105234,
+    30.3398342
+  ],
+  "W-IX (Tyumen, Russia)": [
+    57.161298,
+    65.525017
+  ],
+  "W-IX (Voronezh, Russia)": [
+    51.67625,
+    39.203748
+  ],
+  "WA-IX (Perth, WA, Australia)": [
+    -31.947087,
+    115.87267
+  ],
+  "WIX (Eugene, OR, United States)": [
+    44.050370645175846,
+    -123.09251145172925
+  ],
+  "WIX (Washington, DC, United States)": [
+    38.933868,
+    -77.17726
+  ],
+  "WIX (Wellington, New Zealand)": [
+    -41.22169,
+    174.877237
+  ],
+  "WLG-IX (Wellington, New Zealand)": [
+    -41.28043570898518,
+    174.77820675558158
+  ],
+  "WRIX (Katowice, Poland)": [
+    50.2535299,
+    19.0024448
+  ],
+  "WRIX (Poznan, Poland)": [
+    52.4047628888002,
+    16.921664271349687
+  ],
+  "WRIX (Prague, Czech Republic)": [
+    50.0601656,
+    14.4829317
+  ],
+  "WRIX (Radom, Poland)": [
+    51.40511606379283,
+    21.16952289829653
+  ],
+  "WRIX (Warsaw, Poland)": [
+    52.2276614,
+    21.00425
+  ],
+  "WRIX (Wroclaw, Poland)": [
+    51.109862,
+    17.016696
+  ],
+  "WSNL-IX (Mumbai, India)": [
+    19.141318,
+    73.008839
+  ],
+  "Waterloo IX (Kitchener, ON, Canada)": [
+    43.4816396,
+    -80.5427348
+  ],
+  "XSIX FMT (San Francisco, CA, United States)": [
+    37.4718829,
+    -121.9192359
+  ],
+  "XSIX VAN (Vancouver, BC, Canada)": [
+    49.259384,
+    -123.029622
+  ],
+  "YAR-IX (Yaroslavl, Russia)": [
+    57.63696,
+    39.876352
+  ],
+  "YEGIX (Edmonton, AB, Canada)": [
+    53.5416545,
+    -113.4949324
+  ],
+  "YRIX (Billings, MT, United States)": [
+    45.780867,
+    -108.512233
+  ],
+  "YXEIX (Saskatoon, SK, Canada)": [
+    52.1349795,
+    -106.6683804
+  ],
+  "YYCIX (Calgary, AB, Canada)": [
+    51.047128,
+    -114.079992
+  ],
+  "ZeroIX (San Francisco, CA, United States)": [
+    37.2415096,
+    -121.7817521
+  ],
+  "btix (Thimphu, Bhutan)": [
+    27.4277069,
+    89.6488
+  ],
+  "iAIX (Hong Kong, China)": [
+    22.31394,
+    114.2212701
+  ],
+  "iX-OKC (Oklahoma City, OK, United States)": [
+    35.4664822,
+    -97.6514904
+  ],
+  "irix (Kuching, Malaysia)": [
+    1.70971769,
+    110.35334
+  ],
+  "sumIX (Pekanbaru, Indonesia)": [
+    0.470118,
+    101.396559
+  ]
+}

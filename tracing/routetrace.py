@@ -194,10 +194,9 @@ class RouteTracer:
         return send_time
 
     def receive_icmp_reply(self, icmp_socket):
-        timeout = self.timeout / 1000  # Convert to seconds
+        timeout = self.timeout / 1000 
         time_limit = time.time() + timeout
-    
-        icmp_socket.settimeout(timeout)  # ← set timeout on socket
+        icmp_socket.settimeout(timeout)
     
         while True:
             remaining_time = time_limit - time.time()

@@ -12,7 +12,7 @@ def _generate_path_points(n_points: int) -> list[tuple[tuple[float, float], str]
                 random.uniform(-LAT_LIMIT, LAT_LIMIT),
                 random.uniform(-LON_LIMIT, LON_LIMIT)
             ),
-            f"test-pathpoint-{random.randint(1000, 9999)}"
+            f"test-{random.randint(1000, 9999)}"
         )
         for _ in range(n_points)
     ]
@@ -20,12 +20,11 @@ def _generate_path_points(n_points: int) -> list[tuple[tuple[float, float], str]
 
 PATH_SIZES = range(3, 7)
 
+
 def test_pathbuilder() -> None:
-    assert map.ENTRY_POINTS, "Missing data"
-    
+    assert map.INFRASTRUCTURE_POINTS, "Missing data"
+
     for path_size in PATH_SIZES:
         for _ in range(3):
             test_path = _generate_path_points(path_size)
             map.PathBuilder(test_path, io.BytesIO())
-    
-

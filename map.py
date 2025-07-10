@@ -119,9 +119,16 @@ class PathBuilder:
         folium.PolyLine([start_loc, end_loc], color="red").add_to(self.map)
         
     def draw_submarine_cable(self, start_loc: tuple[float, float], end_loc: tuple[float, float], full_geometry: list[list[float, float]], name: str) -> None:
-        folium.PolyLine(full_geometry, name, color="blue", weight=3).add_to(self.map)
-        folium.PolyLine([start_loc, end_loc], color="cyan", weight=1).add_to(self.map)
-    
+        geometry_start = full_geometry.index(list(self.find_closest_point(start_loc, full_geometry)))
+        geometry_end = full_geometry.index(list(self.find_closest_point(end_loc, full_geometry)))
+        if geometry_start > geometry_end:
+            geometry_start, geometry_end = geometry_end, geometry_start
+        
+        geometry_slice = full_geometry[geometry_start:geometry_end + 1]
+        
+        folium.PolyLine(geometry_slice, name, color="blue", weight=3).add_to(self.map)
+        # folium.PolyLine([start_loc, end_loc], color="cyan", weight=1).add_to(self.map)
+        
     def break_path(self, start_loc: tuple[float, float], end_loc: tuple[float, float]) -> None:
         mid_point = self.find_closest_point((
             (start_loc[0]+end_loc[0])/2,

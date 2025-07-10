@@ -21,7 +21,6 @@ def _generate_path_points(n_points: int) -> list[tuple[tuple[float, float], str]
 PATH_SIZES = range(3, 7)
 
 def test_pathbuilder() -> None:
-    assert True == False, "Test"
     assert map.ENTRY_POINTS, "Missing data"
     
     for path_size in PATH_SIZES:

@@ -59,6 +59,4 @@ def trace_by_api(target_url: str) -> Response:
 
     return _build_map(points)
 
-    
 uvicorn.run(api, port=8084)
-

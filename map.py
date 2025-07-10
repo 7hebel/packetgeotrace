@@ -74,6 +74,9 @@ class PathBuilder:
 
     def find_closest_point(self, target_loc: tuple[float, float], positions: list[tuple[float, float]]) -> tuple[float, float]:
         """ Returns point closest to the target location from list of points. """
+        if not positions:
+            return target_loc
+        
         closest_dist = None
         closest_point = None
 
